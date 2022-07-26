@@ -2,12 +2,12 @@
 DragonBreath (American Constitutional Supreme and Mandatory Primary Source Law Bulk Parser)
 
 Update Date: 07/26/2022
-Update Time: Approx. 02:30
+Update Time: Approx. 02:36
 
 GitHub Repository: https://github.com/wethepeopleonline.com/DragonBreath/
 
 
-Repository Description: "DragonBreath F.10 (American Constitutional Supreme and Mandatory Primary Source Law Bulk Parser)"
+Repository Description: "DragonBreath F.10 (American Constitutional Supreme and Mandatory Primary Source Case/Common Law Bulk Parser)"
 
 
 

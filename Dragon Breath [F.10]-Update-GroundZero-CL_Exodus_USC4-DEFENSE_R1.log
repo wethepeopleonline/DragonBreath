@@ -1,0 +1,133 @@
+2023-03-03 13:49:12,290:DEBUG:Starting Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1 on Computer Workstation: posix.uname_result(sysname='Linux', nodename='defensedragon', release='5.10.0-20-amd64', version='#1 SMP Debian 5.10.158-2 (2022-12-13)', machine='x86_64')...
+2023-03-03 13:49:12,290:DEBUG:[Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1] on Computer Workstation: posix.uname_result(sysname='Linux', nodename='defensedragon', release='5.10.0-20-amd64', version='#1 SMP Debian 5.10.158-2 (2022-12-13)', machine='x86_64') - Initializing Logging to File...
+2023-03-03 13:49:12,291:DEBUG:[Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1] - on Computer Workstation: posix.uname_result(sysname='Linux', nodename='defensedragon', release='5.10.0-20-amd64', version='#1 SMP Debian 5.10.158-2 (2022-12-13)', machine='x86_64') - [Log Filename:]
+2023-03-03 13:49:12,291:DEBUG:Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1.log
+2023-03-03 13:49:12,291:DEBUG:Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1 now Calculating Current Workstation's CPU Type, [Intel Support Only For Accurate Logging] Intel I-7 or Intel-5...
+2023-03-03 13:49:12,291:DEBUG:[Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1] - on Computer Workstation has CPU Count of: 4
+2023-03-03 13:50:16,318:DEBUG:[courtlistener.com American Constitutional Republic's Supreme and Mandatory U.S. Case Law Jurisdictional Dataset Selected: datasets/dataset0/ ]
+2023-03-03 13:50:16,318:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Deleting wd.json.files.count.txt
+2023-03-03 13:50:16,318:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Deleting wd.json.files.txt
+2023-03-03 13:50:16,319:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Deleting dataset_json_files_variant_e.txt
+2023-03-03 13:50:16,319:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Start Flat File Flush Completed Succesfully!
+2023-03-03 13:50:16,319:DEBUG:Dragon Breath [F.10] - [Table 01/10] -[CL Jurisdiction Dataset: datasets/dataset0/ ] - There are currently x amount of JSON Files in this Datasets working directory:
+2023-03-03 13:50:16,319:DEBUG:5
+2023-03-03 13:50:16,351:DEBUG:Dragon Breath [F.10] - [Table 01/10] -[CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Dataset JSON File Count to [wd.json.files.count.txt] Successful!
+2023-03-03 13:50:16,352:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Calculating all JSON files in current dataset directory successful!
+2023-03-03 13:50:16,352:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Finished writing wd.json.files.txt with all JSON files in this working directory!
+2023-03-03 13:50:16,352:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Storing JSON File Count to Python Variable: 'json_count'...
+2023-03-03 13:50:16,352:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Storing JSON File Count to Python Variable: 'json_count' Successful!
+2023-03-03 13:50:16,352:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Setting Iteration Counter Variable: iteration_count to '0' ...
+2023-03-03 13:50:16,371:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 0
+2023-03-03 13:50:16,371:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 13:50:16,371:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 13:50:16,371:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 0
+2023-03-03 13:50:16,371:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 4731065.json
+2023-03-03 13:50:16,371:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/4923927/state-v-abraham/
+2023-03-03 13:52:14,955:DEBUG:Starting Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1 on Computer Workstation: posix.uname_result(sysname='Linux', nodename='defensedragon', release='5.10.0-20-amd64', version='#1 SMP Debian 5.10.158-2 (2022-12-13)', machine='x86_64')...
+2023-03-03 13:52:14,955:DEBUG:[Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1] on Computer Workstation: posix.uname_result(sysname='Linux', nodename='defensedragon', release='5.10.0-20-amd64', version='#1 SMP Debian 5.10.158-2 (2022-12-13)', machine='x86_64') - Initializing Logging to File...
+2023-03-03 13:52:14,955:DEBUG:[Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1] - on Computer Workstation: posix.uname_result(sysname='Linux', nodename='defensedragon', release='5.10.0-20-amd64', version='#1 SMP Debian 5.10.158-2 (2022-12-13)', machine='x86_64') - [Log Filename:]
+2023-03-03 13:52:14,955:DEBUG:Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1.log
+2023-03-03 13:52:14,956:DEBUG:Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1 now Calculating Current Workstation's CPU Type, [Intel Support Only For Accurate Logging] Intel I-7 or Intel-5...
+2023-03-03 13:52:14,956:DEBUG:[Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1] - on Computer Workstation has CPU Count of: 4
+2023-03-03 13:52:17,534:DEBUG:[courtlistener.com American Constitutional Republic's Supreme and Mandatory U.S. Case Law Jurisdictional Dataset Selected: datasets/dataset0/ ]
+2023-03-03 13:52:17,534:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Deleting wd.json.files.count.txt
+2023-03-03 13:52:17,534:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Deleting wd.json.files.txt
+2023-03-03 13:52:17,534:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Deleting dataset_json_files_variant_e.txt
+2023-03-03 13:52:17,535:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Start Flat File Flush Completed Succesfully!
+2023-03-03 13:52:17,535:DEBUG:Dragon Breath [F.10] - [Table 01/10] -[CL Jurisdiction Dataset: datasets/dataset0/ ] - There are currently x amount of JSON Files in this Datasets working directory:
+2023-03-03 13:52:17,535:DEBUG:5
+2023-03-03 13:52:17,535:DEBUG:Dragon Breath [F.10] - [Table 01/10] -[CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Dataset JSON File Count to [wd.json.files.count.txt] Successful!
+2023-03-03 13:52:17,536:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Calculating all JSON files in current dataset directory successful!
+2023-03-03 13:52:17,536:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Finished writing wd.json.files.txt with all JSON files in this working directory!
+2023-03-03 13:52:17,536:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Storing JSON File Count to Python Variable: 'json_count'...
+2023-03-03 13:52:17,536:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Storing JSON File Count to Python Variable: 'json_count' Successful!
+2023-03-03 13:52:17,536:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Setting Iteration Counter Variable: iteration_count to '0' ...
+2023-03-03 13:52:17,539:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 0
+2023-03-03 13:52:17,539:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 13:52:17,539:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 13:52:17,539:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 0
+2023-03-03 13:52:17,539:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 4731065.json
+2023-03-03 13:52:17,539:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/4923927/state-v-abraham/
+2023-03-03 13:52:18,504:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 4731065.json ] - [Successful Iteration Runs (Unique JSON Files) : 1 out of Total JSON Files: 5
+2023-03-03 13:52:18,504:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 1
+2023-03-03 13:52:18,504:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 13:52:18,504:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 13:52:18,514:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 1
+2023-03-03 13:52:18,514:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 4706734.json
+2023-03-03 13:52:18,515:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/4902955/state-v-schierman/
+2023-03-03 13:52:22,010:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 4706734.json ] - [Successful Iteration Runs (Unique JSON Files) : 2 out of Total JSON Files: 5
+2023-03-03 13:52:22,010:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 2
+2023-03-03 13:52:22,011:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 13:52:22,011:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 13:52:22,011:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 2
+2023-03-03 13:52:22,011:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 1189556.json
+2023-03-03 13:52:22,012:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/1189556/mcmillan-v-great-northern-r-co/
+2023-03-03 13:52:22,570:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 1189556.json ] - [Successful Iteration Runs (Unique JSON Files) : 3 out of Total JSON Files: 5
+2023-03-03 13:52:22,570:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 3
+2023-03-03 13:52:22,570:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 13:52:22,570:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 13:52:22,572:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 3
+2023-03-03 13:52:22,572:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 2581757.json
+2023-03-03 13:52:22,572:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/2581757/amalgamated-transit-v-state/
+2023-03-03 13:52:24,138:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 2581757.json ] - [Successful Iteration Runs (Unique JSON Files) : 4 out of Total JSON Files: 5
+2023-03-03 13:52:24,138:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 4
+2023-03-03 13:52:24,139:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 13:52:24,139:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 13:52:24,139:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 4
+2023-03-03 13:52:24,139:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 2632900.json
+2023-03-03 13:52:24,140:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/2632900/san-juan-county-v-no-new-gas-tax/
+2023-03-03 13:52:24,760:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 2632900.json ] - [Successful Iteration Runs (Unique JSON Files) : 5 out of Total JSON Files: 5
+2023-03-03 14:32:25,710:DEBUG:Starting Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1 on Computer Workstation: posix.uname_result(sysname='Linux', nodename='defensedragon', release='5.10.0-20-amd64', version='#1 SMP Debian 5.10.158-2 (2022-12-13)', machine='x86_64')...
+2023-03-03 14:32:25,710:DEBUG:[Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1] on Computer Workstation: posix.uname_result(sysname='Linux', nodename='defensedragon', release='5.10.0-20-amd64', version='#1 SMP Debian 5.10.158-2 (2022-12-13)', machine='x86_64') - Initializing Logging to File...
+2023-03-03 14:32:25,710:DEBUG:[Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1] - on Computer Workstation: posix.uname_result(sysname='Linux', nodename='defensedragon', release='5.10.0-20-amd64', version='#1 SMP Debian 5.10.158-2 (2022-12-13)', machine='x86_64') - [Log Filename:]
+2023-03-03 14:32:25,710:DEBUG:Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1.log
+2023-03-03 14:32:25,710:DEBUG:Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1 now Calculating Current Workstation's CPU Type, [Intel Support Only For Accurate Logging] Intel I-7 or Intel-5...
+2023-03-03 14:32:25,710:DEBUG:[Dragon Breath [F.10]-Update-GroundZero-CL_Exodus_USC4-DEFENSE_R1] - on Computer Workstation has CPU Count of: 4
+2023-03-03 14:32:33,672:DEBUG:[courtlistener.com American Constitutional Republic's Supreme and Mandatory U.S. Case Law Jurisdictional Dataset Selected: datasets/dataset0/ ]
+2023-03-03 14:32:33,673:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Deleting wd.json.files.count.txt
+2023-03-03 14:32:33,673:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Deleting wd.json.files.txt
+2023-03-03 14:32:33,673:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Deleting dataset_json_files_variant_e.txt
+2023-03-03 14:32:33,674:DEBUG:Dragon Breath [F.10] - [Startup Flat File Flush] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Start Flat File Flush Completed Succesfully!
+2023-03-03 14:32:33,674:DEBUG:Dragon Breath [F.10] - [Table 01/10] -[CL Jurisdiction Dataset: datasets/dataset0/ ] - There are currently x amount of JSON Files in this Datasets working directory:
+2023-03-03 14:32:33,674:DEBUG:5
+2023-03-03 14:32:33,675:DEBUG:Dragon Breath [F.10] - [Table 01/10] -[CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Dataset JSON File Count to [wd.json.files.count.txt] Successful!
+2023-03-03 14:32:33,676:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Calculating all JSON files in current dataset directory successful!
+2023-03-03 14:32:33,676:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Finished writing wd.json.files.txt with all JSON files in this working directory!
+2023-03-03 14:32:33,676:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Storing JSON File Count to Python Variable: 'json_count'...
+2023-03-03 14:32:33,676:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Storing JSON File Count to Python Variable: 'json_count' Successful!
+2023-03-03 14:32:33,676:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Now Setting Iteration Counter Variable: iteration_count to '0' ...
+2023-03-03 14:32:33,680:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 0
+2023-03-03 14:32:33,680:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 14:32:33,680:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 14:32:33,681:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 0
+2023-03-03 14:32:33,681:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 4731065.json
+2023-03-03 14:32:33,681:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/4923927/state-v-abraham/
+2023-03-03 14:32:34,858:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 4731065.json ] - [Successful Iteration Runs (Unique JSON Files) : 1 out of Total JSON Files: 5
+2023-03-03 14:32:34,858:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 1
+2023-03-03 14:32:34,859:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 14:32:34,859:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 14:32:34,867:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 1
+2023-03-03 14:32:34,867:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 4706734.json
+2023-03-03 14:32:34,867:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/4902955/state-v-schierman/
+2023-03-03 14:32:36,409:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 4706734.json ] - [Successful Iteration Runs (Unique JSON Files) : 2 out of Total JSON Files: 5
+2023-03-03 14:32:36,410:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 2
+2023-03-03 14:32:36,410:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 14:32:36,410:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 14:32:36,410:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 2
+2023-03-03 14:32:36,410:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 1189556.json
+2023-03-03 14:32:36,410:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/1189556/mcmillan-v-great-northern-r-co/
+2023-03-03 14:32:36,989:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 1189556.json ] - [Successful Iteration Runs (Unique JSON Files) : 3 out of Total JSON Files: 5
+2023-03-03 14:32:36,989:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 3
+2023-03-03 14:32:36,989:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 14:32:36,989:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 14:32:36,991:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 3
+2023-03-03 14:32:36,991:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 2581757.json
+2023-03-03 14:32:36,991:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/2581757/amalgamated-transit-v-state/
+2023-03-03 14:32:38,980:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 2581757.json ] - [Successful Iteration Runs (Unique JSON Files) : 4 out of Total JSON Files: 5
+2023-03-03 14:32:38,980:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - Current Iteration Count: 4
+2023-03-03 14:32:38,980:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisidiction Dataset: datasets/dataset0/ ] - Now Reading Current JSON Datasets Specific .json file: from 'datasets/dataset0/wd.json.files.txt'...
+2023-03-03 14:32:38,980:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiciton Dataset: datasets/dataset0/ ] - Now Loading JSON File...
+2023-03-03 14:32:38,981:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Iteration Count]: 4
+2023-03-03 14:32:38,981:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename]: 2632900.json
+2023-03-03 14:32:38,981:DEBUG:Dragon Breath [F.10] - [Table 01/10] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Casename Absolute URL]: /opinion/2632900/san-juan-county-v-no-new-gas-tax/
+2023-03-03 14:32:39,529:DEBUG:Dragon Breath [F.10] - [JSON to MariaDB - Table 01 - 04-Part-A Populated!] - [CL Jurisdiction Dataset: datasets/dataset0/ ] - [Current JSON Filename: 2632900.json ] - [Successful Iteration Runs (Unique JSON Files) : 5 out of Total JSON Files: 5

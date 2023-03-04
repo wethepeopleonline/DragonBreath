@@ -1,0 +1,424 @@
+name,abbreviation,count
+Supreme Court of the United States,scotus  ,64243
+Court of Appeals for the First Circuit,ca1  ,35845
+Court of Appeals for the Second Circuit,ca2  ,64874
+Court of Appeals for the Third Circuit,ca3  ,74278
+Court of Appeals for the Fourth Circuit,ca4  ,135603
+Court of Appeals for the Fifth Circuit,ca5  ,161663
+Court of Appeals for the Sixth Circuit,ca6  ,77683
+Court of Appeals for the Seventh Circuit,ca7  ,66162
+Court of Appeals for the Eighth Circuit,ca8  ,77632
+Court of Appeals for the Ninth Circuit,ca9  ,130787
+Court of Appeals for the Tenth Circuit,ca10  ,55624
+Court of Appeals for the Eleventh Circuit,ca11  ,77155
+Court of Appeals for the D.C. Circuit,cadc  ,26480
+Court of Appeals for the Federal Circuit,cafc  ,34423
+United States Attorneys General,ag  ,1364
+United States Air Force Court of Criminal Appeals,afcca  ,1363
+Armed Services Board of Contract Appeals,asbca  ,2604
+Court of Appeals for the Armed Forces,armfor  ,1258
+Army Court of Criminal Appeals,acca  ,1783
+United States Court of Claims,cc  ,2196
+United States Court of Federal Claims,uscfc  ,15872
+Commerce Court,com  ,0
+Court of Customs and Patent Appeals,ccpa  ,2776
+United States Customs Court,cusc  ,161
+United States Tax Court,tax  ,60935
+United States Board of Tax Appeals,bta  ,24376
+United States Court of Military Commission Review,mc  ,7
+Merit Systems Protection Board,mspb  ,2590
+Navy-Marine Corps Court of Criminal Appeals,nmcca  ,1921
+United States Court of Appeals for Veterans Claims,cavc  ,1031
+Board of Veterans' Appeals,bva  ,3547
+Emergency Court of Appeals,eca  ,97
+Temporary Emergency Court of Appeals,tecoa  ,0
+Foreign Intelligence Surveillance Court of Review,fiscr  ,2
+Foreign Intelligence Surveillance Court,fisc  ,5
+Special Court under the Regional Rail Reorganization Act,reglrailreorgct  ,40
+United States Court of International Trade,cit  ,4685
+Bankruptcy Appellate Panel of the First Circuit,bap1  ,283
+Bankruptcy Appellate Panel of the Second Circuit,bap2  ,27
+Bankruptcy Appellate Panel of the Sixth Circuit,bap6  ,254
+United States Bankruptcy Appellate Panel for the Eighth Circuit,bap8  ,514
+United States Bankruptcy Appellate Panel for the Ninth Circuit,bap9  ,3157
+Bankruptcy Appellate Panel of the Tenth Circuit,bap10  ,454
+"Bankruptcy Appellate Panel, D. Maine",bapme  ,2
+Bankruptcy Appellate Panel of Massachusetts,bapma  ,3
+"United States Bankruptcy Court, M.D. Alabama",almb  ,180
+"United States Bankruptcy Court, N.D. Alabama",alnb  ,459
+"United States Bankruptcy Court, S.D. Alabama",alsb  ,114
+"United States Bankruptcy Court, D. Alaska",akb  ,51
+"United States Bankruptcy Court, D. Arizona",arb  ,355
+"United States Bankruptcy Court, E.D. Arkansas",areb  ,520
+"United States Bankruptcy Court, W.D. Arkansas",arwb  ,241
+"United States Bankruptcy Court, C.D. California",cacb  ,568
+"United States Bankruptcy Court, E.D. California",caeb  ,274
+"United States Bankruptcy Court, N.D. California",canb  ,337
+"United States Bankruptcy Court, S.D. California",casb  ,348
+"United States Bankruptcy Court, D. Colorado",cob  ,744
+"United States Bankruptcy Court, D. Connecticut",ctb  ,822
+"United States Bankruptcy Court, D. Delaware",deb  ,873
+"United States Bankruptcy Court, District of Columbia",dcb  ,1
+"United States Bankruptcy Court, M.D. Florida",flmb  ,2870
+"United States Bankruptcy Court, N.D. Florida",flnb  ,266
+"United States Bankruptcy Court, S.D. Florida.",flsb  ,1632
+"United States Bankruptcy Court, M.D. Georgia",gamb  ,463
+"United States Bankruptcy Court, N.D. Georgia",ganb  ,812
+"United States Bankruptcy Court, S.D. Georgia",gasb  ,361
+"United States Bankruptcy Court, D. Hawaii",hib  ,163
+"United States Bankruptcy Court, D. Idaho",idb  ,430
+"United States Bankruptcy Court, C.D. Illinois",ilcb  ,428
+"United States Bankruptcy Court, N.D. Illinois",ilnb  ,1917
+"United States Bankruptcy Court, S.D. Illinois",ilsb  ,220
+"United States Bankruptcy Court, N.D. Indiana",innb  ,366
+"United States Bankruptcy Court, S.D. Indiana",insb  ,170
+"United States Bankruptcy Court, N.D. Iowa",ianb  ,397
+"United States Bankruptcy Court, S.D. Iowa",iasb  ,138
+"United States Bankruptcy Court, D. Kansas",ksb  ,624
+"United States Bankruptcy Court, E.D. Kentucky",kyeb  ,116
+"United States Bankruptcy Court, W.D. Kentucky",kywb  ,511
+"United States Bankruptcy Court, E.D. Louisiana",laeb  ,102
+"United States Bankruptcy Court, M.D. Louisiana",lamb  ,109
+"United States Bankruptcy Court, W.D. Louisiana",lawb  ,188
+"United States Bankruptcy Court, D. Maine",meb  ,319
+"United States Bankruptcy Court, D. Maryland",mdb  ,505
+"United States Bankruptcy Court, D. Massachusetts",mab  ,1502
+"United States Bankruptcy Court, E.D. Michigan",mieb  ,745
+"United States Bankruptcy Court, W.D. Michigan",miwb  ,404
+"United States Bankruptcy Court, D. Minnesota",mnb  ,688
+"United States Bankruptcy Court, N.D. Mississippi",msnb  ,172
+"United States Bankruptcy Court, S.D. Mississippi",mssb  ,98
+"United States Bankruptcy Court, E.D. Missouri",moeb  ,545
+"United States Bankruptcy Court, W.D. Missouri",mowb  ,1133
+"United States Bankruptcy Court, D. Montana",mtb  ,310
+"United States Bankruptcy Court, D. Nebraska",nebraskab  ,333
+"United States Bankruptcy Court, D. Nevada",nvb  ,198
+"United States Bankruptcy Court, D. New Hampshire",nhb  ,408
+"United States Bankruptcy Court, D. New Jersey",njb  ,635
+"United States Bankruptcy Court, D. New Mexico",nmb  ,312
+"United States Bankruptcy Court, E.D. New York",nyeb  ,1063
+"United States Bankruptcy Court, N.D. New York",nynb  ,355
+"United States Bankruptcy Court, S.D. New York",nysb  ,2457
+"United States Bankruptcy Court, W.D. New York",nywb  ,542
+"United States Bankruptcy Court, E.D. North Carolina",nceb  ,245
+"United States Bankruptcy Court, M.D. North Carolina",ncmb  ,191
+"United States Bankruptcy Court, W.D. North Carolina",ncwb  ,84
+"United States Bankruptcy Court, D. North Dakota",ndb  ,297
+"United States Bankruptcy Court, N.D. Ohio",ohnb  ,1780
+"United States Bankruptcy Court, S.D. Ohio",ohsb  ,1631
+"United States Bankruptcy Court, E.D. Oklahoma",okeb  ,98
+"United States Bankruptcy Court, N.D. Oklahoma",oknb  ,288
+"United States Bankruptcy Court, W.D. Oklahoma",okwb  ,268
+"United States Bankruptcy Court, D. Oregon",orb  ,384
+"United States Bankruptcy Court, E.D. Pennsylvania",paeb  ,2094
+"United States Bankruptcy Court, M.D. Pennsylvania",pamb  ,427
+"United States Bankruptcy Court, W.D. Pennsylvania",pawb  ,1057
+"United States Bankruptcy Court, D. Rhode Island",rib  ,448
+"United States Bankruptcy Court, D. South Carolina",scb  ,417
+"United States Bankruptcy Court, D. South Dakota",sdb  ,206
+"United States Bankruptcy Court, E.D. Tennessee",tneb  ,675
+"United States Bankruptcy Court, M.D. Tennessee",tnmb  ,388
+"United States Bankruptcy Court, W.D. Tennessee",tnwb  ,264
+"United States Bankruptcy Court, D. Tennessee",tennesseeb  ,0
+"United States Bankruptcy Court, E.D. Texas",txeb  ,245
+"United States Bankruptcy Court, N.D. Texas",txnb  ,848
+"United States Bankruptcy Court, S.D. Texas",txsb  ,565
+"United States Bankruptcy Court, W.D. Texas",txwb  ,435
+"United States Bankruptcy Court, D. Utah",utb  ,221
+"United States Bankruptcy Court, D. Vermont",vtb  ,343
+"United States Bankruptcy Court, E.D. Virginia",vaeb  ,1113
+"United States Bankruptcy Court, W.D. Virginia",vawb  ,416
+"United States Bankruptcy Court, E.D. Washington",waeb  ,53
+"United States Bankruptcy Court, W.D. Washington",wawb  ,148
+"United States Bankruptcy Court, N.D. West Virginia",wvnb  ,82
+"United States Bankruptcy Court, S.D. West Virginia",wvsb  ,41
+"United States Bankruptcy Court, E.D. Wisconsin",wieb  ,388
+"United States Bankruptcy Court, W.D. Wisconsin",wiwb  ,364
+"United States Bankruptcy Court, D. Wyoming",wyb  ,39
+"United States Bankruptcy Court, D. Guam",gub  ,2
+"United States Bankruptcy Court, Northern Mariana Islands",nmib  ,0
+"United States Bankruptcy Court, D. Puerto Rico",prb  ,152
+"United States Bankruptcy Court, D. Virgin Islands",vib  ,5
+"District Court, District of Columbia",dcd  ,32780
+"District Court, D. Alabama",ald  ,0
+"District Court, M.D. Alabama",almd  ,2266
+"District Court, N.D. Alabama",alnd  ,1247
+"District Court, S.D. Alabama",alsd  ,724
+"District Court, D. Alaska",akd  ,444
+"District Court, D. Arizona",azd  ,1286
+"District Court, E.D. Arkansas",ared  ,1190
+"District Court, W.D. Arkansas",arwd  ,810
+"District Court, D. California",californiad  ,8
+"District Court, C.D. California",cacd  ,3246
+"District Court, E.D. California",caed  ,1258
+"District Court, N.D. California",cand  ,4669
+"District Court, S.D. California",casd  ,1725
+Circuit Court for California,caca  ,0
+"District Court, D. Colorado",cod  ,3237
+"District Court, D. Connecticut",ctd  ,4495
+"District Court, D. Delaware",ded  ,3748
+U.S. Circuit Court for the District of Delaware,circtdel  ,0
+"District Court, D. Florida",fld  ,0
+"District Court, M.D. Florida",flmd  ,2998
+"District Court, N.D. Florida",flnd  ,536
+"District Court, S.D. Florida",flsd  ,4193
+"District Court, D. Georgia",gad  ,0
+"District Court, M.D. Georgia",gamd  ,837
+"District Court, N.D. Georgia",gand  ,2814
+"District Court, S.D. Georgia",gasd  ,771
+"District Court, D. Hawaii",hid  ,1321
+"District Court, D. Idaho",idd  ,430
+"District Court, C.D. Illinois",ilcd  ,1029
+"District Court, N.D. Illinois",ilnd  ,12460
+"District Court, S.D. Illinois",ilsd  ,505
+"District Court, E.D. Illinois",illinoised  ,184
+"District Court, D. Illinois",illinoisd  ,1
+"District Court, N.D. Indiana",innd  ,1829
+"District Court, S.D. Indiana",insd  ,1387
+"District Court, D. Indiana",indianad  ,3
+"District Court, D. Iowa",iad  ,0
+"District Court, N.D. Iowa",iand  ,1230
+"District Court, S.D. Iowa",iasd  ,1165
+"District Court, D. Kansas",ksd  ,4748
+"District Court, D. Kentucky",kyd  ,0
+"District Court, E.D. Kentucky",kyed  ,863
+"District Court, W.D. Kentucky",kywd  ,1011
+"District Court, D. Louisiana",lad  ,0
+"District Court, E.D. Louisiana",laed  ,2763
+"District Court, M.D. Louisiana",lamd  ,706
+"District Court, W.D. Louisiana",lawd  ,1223
+"District Court, Orleans",orld  ,0
+"District Court, D. Maine",med  ,2505
+"District Court, D. Maryland",mdd  ,5001
+"District Court, D. Massachusetts",mad  ,7532
+"District Court, D. Michigan",michd  ,0
+"District Court, E.D. Michigan",mied  ,5436
+"District Court, W.D. Michigan",miwd  ,1696
+"District Court, D. Minnesota",mnd  ,3249
+"District Court, D. Mississippi",missd  ,0
+"District Court, N.D. Mississippi",msnd  ,942
+"District Court, S.D. Mississippi",mssd  ,1696
+"District Court, D. Missouri",mod  ,0
+"District Court, E.D. Missouri",moed  ,2632
+"District Court, W.D. Missouri",mowd  ,1957
+"District Court, D. Montana",mtd  ,816
+"District Court, D. Nebraska",ned  ,1165
+"District Court, D. Nevada",nvd  ,1221
+"District Court, D. New Hampshire",nhd  ,912
+"District Court, D. New Jersey",njd  ,4865
+"District Court, D. New Mexico",nmd  ,1084
+"District Court, D. New York",nyd  ,0
+"District Court, E.D. New York",nyed  ,7792
+"District Court, N.D. New York",nynd  ,2578
+"District Court, S.D. New York",nysd  ,26704
+"District Court, W.D. New York",nywd  ,2924
+"District Court, E.D. North Carolina",nced  ,1076
+"District Court, M.D. North Carolina",ncmd  ,1083
+"District Court, W.D. North Carolina",ncwd  ,1061
+U.S. Circuit Court for the District of North Carolina,circtnc  ,23
+"District Court, D. North Dakota",ndd  ,606
+"District Court, D. North Carolina",ncd  ,0
+"District Court, N.D. Ohio",ohnd  ,3293
+"District Court, S.D. Ohio",ohsd  ,2860
+"District Court, D. Ohio",ohiod  ,3
+"District Court, E.D. Oklahoma",oked  ,174
+"District Court, N.D. Oklahoma",oknd  ,485
+"District Court, W.D. Oklahoma",okwd  ,1010
+"District Court, D. Oregon",ord  ,1859
+"District Court, E.D. Pennsylvania",paed  ,10441
+"District Court, M.D. Pennsylvania",pamd  ,2304
+"District Court, W.D. Pennsylvania",pawd  ,3250
+"District Court, D. Pennsylvania",pennsylvaniad  ,0
+"District Court, D. Rhode Island",rid  ,1556
+"District Court, D. South Carolina",scd  ,1473
+"District Court, E.D. South Carolina",southcarolinaed  ,181
+"District Court, W.D. South Carolina",southcarolinawd  ,95
+"District Court, D. South Dakota",sdd  ,867
+"District Court, E.D. Tennessee",tned  ,1363
+"District Court, M.D. Tennessee",tnmd  ,1147
+"District Court, W.D. Tennessee",tnwd  ,892
+"District Court, D. Tennessee",tennessed  ,3
+U.S. Circuit Court for the District of Tennessee,circttenn  ,55
+"District Court, D. Texas",texd  ,0
+"District Court, E.D. Texas",txed  ,1591
+"District Court, N.D. Texas",txnd  ,2412
+"District Court, S.D. Texas",txsd  ,3497
+"District Court, W.D. Texas",txwd  ,1283
+"District Court, D. Utah",utd  ,1237
+"District Court, D. Vermont",vtd  ,668
+"District Court, D. Virginia",vad  ,0
+"District Court, E.D. Virginia",vaed  ,4530
+"District Court, W.D. Virginia",vawd  ,2018
+"District Court, D. Washington",washd  ,0
+"District Court, E.D. Washington",waed  ,437
+"District Court, W.D. Washington",wawd  ,1146
+"District Court, D. West Virginia",wvad  ,0
+"District Court, N.D. West Virginia",wvnd  ,466
+"District Court, S.D. West Virginia",wvsd  ,1238
+"District Court, D. Wisconsin",wisd  ,0
+"District Court, E.D. Wisconsin",wied  ,2740
+"District Court, W.D. Wisconsin",wiwd  ,1181
+"District Court, D. Wyoming",wyd  ,481
+"District Court, Canal Zone",canalzoned  ,26
+"District Court, D. Guam",gud  ,38
+"District Court, Northern Mariana Islands",nmid  ,16
+"District Court, D. Puerto Rico",prd  ,4054
+"District Court, Virgin Islands",vid  ,656
+Supreme Court of Alabama,ala  ,34623
+Alabama Court of Appeals,alactapp  ,17610
+Court of Criminal Appeals of Alabama,alacrimapp  ,12242
+Court of Civil Appeals of Alabama,alacivapp  ,9710
+Alaska Supreme Court,alaska  ,6378
+Court of Appeals of Alaska,alaskactapp  ,2186
+Arizona Supreme Court,ariz  ,9968
+Court of Appeals of Arizona,arizctapp  ,16564
+Arizona Superior Court,arizsuper  ,0
+Arizona Tax Court,ariztaxct  ,23
+Supreme Court of Arkansas,ark  ,21730
+Court of Appeals of Arkansas,arkctapp  ,5410
+Arkansas Workers' Compensation Commission,arkworkcompcom  ,0
+Arkansas Attorney General Reports,arkag  ,8456
+California Supreme Court,cal  ,24284
+California Court of Appeal,calctapp  ,122627
+Appellate Division of the Superior Court of California,calappdeptsuper  ,0
+California Attorney General Reports,calag  ,1193
+Supreme Court of Colorado,colo  ,15127
+Colorado Court of Appeals,coloctapp  ,10364
+Colorado Industrial Claim Appeals Office,coloworkcompcom  ,0
+Colorado Attorney General Reports,coloag  ,686
+Supreme Court of Connecticut,conn  ,15186
+Connecticut Appellate Court,connappct  ,6268
+Connecticut Superior Court,connsuperct  ,49128
+Connecticut Compensation Review Board,connworkcompcom  ,0
+Supreme Court of Delaware,del  ,9342
+Court of Chancery of Delaware,delch  ,3074
+Superior Court of Delaware,delsuperct  ,6180
+Delaware Court of Common Pleas,delctcompl  ,264
+Delaware Family Court,delfamct  ,88
+Court on the Judiciary of Delaware.,deljudct  ,5
+District of Columbia Court of Appeals,dc  ,13736
+Supreme Court of Florida,fla  ,38953
+District Court of Appeal of Florida,fladistctapp  ,139048
+Florida Attorney General Reports,flaag  ,3982
+Supreme Court of Georgia,ga  ,21213
+Court of Appeals of Georgia,gactapp  ,62779
+Hawaii Supreme Court,haw  ,8534
+Hawaii Intermediate Court of Appeals,hawapp  ,7890
+Idaho Supreme Court,idaho  ,11547
+Idaho Court of Appeals,idahoctapp  ,8051
+Illinois Supreme Court,ill  ,24968
+Appellate Court of Illinois,illappct  ,81389
+Indiana Supreme Court,ind  ,17216
+Indiana Court of Appeals,indctapp  ,51186
+Indiana Tax Court,indtc  ,685
+Supreme Court of Iowa,iowa  ,23521
+Court of Appeals of Iowa,iowactapp  ,14025
+Supreme Court of Kansas,kan  ,11701
+Court of Appeals of Kansas,kanctapp  ,9475
+Kansas Attorney General Reports,kanag  ,1193
+Kentucky Supreme Court,ky  ,4626
+Court of Appeals of Kentucky,kyctapp  ,2556
+Court of Appeals of Kentucky (pre-1976),kyctapphigh  ,21644
+Supreme Court of Louisiana,la  ,35735
+Louisiana Court of Appeal,lactapp  ,54885
+Louisiana Attorney General Reports,laag  ,7302
+Supreme Judicial Court of Maine,me  ,8990
+Court of Appeals of Maryland,md  ,22828
+Court of Special Appeals of Maryland,mdctspecapp  ,8603
+Maryland Attorney General Reports,mdag  ,354
+Massachusetts Supreme Judicial Court,mass  ,9629
+Massachusetts Appeals Court,massappct  ,3743
+Massachusetts Superior Court,masssuperct  ,0
+Massachusetts District Court,massdistct  ,0
+Massachusetts Department of Industrial Accidents,maworkcompcom  ,0
+Michigan Supreme Court,mich  ,55787
+Michigan Court of Appeals,michctapp  ,35948
+Supreme Court of Minnesota,minn  ,22077
+Court of Appeals of Minnesota,minnctapp  ,13310
+Minnesota Attorney General Reports,minnag  ,100
+Mississippi Supreme Court,miss  ,27466
+Court of Appeals of Mississippi,missctapp  ,7323
+Supreme Court of Missouri,mo  ,19635
+Missouri Court of Appeals,moctapp  ,35696
+Missouri Attorney General Reports,moag  ,2561
+Montana Supreme Court,mont  ,29316
+Montana Tax Appeal Board,monttc  ,2
+Montana Attorney General Reports,montag  ,0
+Nebraska Supreme Court,neb  ,32745
+Nebraska Court of Appeals,nebctapp  ,4442
+Nebraska Attorney General Reports,nebag  ,2615
+Nevada Supreme Court,nev  ,22905
+Supreme Court of New Hampshire,nh  ,11660
+Supreme Court of New Jersey,nj  ,22872
+New Jersey Superior Court,njsuperctappdiv  ,31219
+New Jersey Tax Court,njtaxct  ,11
+New Jersey Court of Chancery,njch  ,3309
+New Mexico Supreme Court,nm  ,10230
+New Mexico Court of Appeals,nmctapp  ,11013
+New York Court of Appeals,ny  ,74604
+Appellate Division of the Supreme Court of the State of New York,nyappdiv  ,63198
+Appellate Terms of the Supreme Court of New York,nyappterm  ,5183
+New York Supreme Court,nysupct  ,326
+New York Family Court,nyfamct  ,1
+New York Surrogate's Court,nysurct  ,4
+Civil Court of the City of New York,nycivct  ,0
+Criminal Court of the City of New York,nycrimct  ,0
+New York Attorney General Reports,nyag  ,2705
+Supreme Court of North Carolina,nc  ,53293
+Court of Appeals of North Carolina,ncctapp  ,24321
+Superior Court of North Carolina,ncsuperct  ,984
+North Carolina Industrial Commission,ncworkcompcom  ,7926
+North Dakota Supreme Court,nd  ,14902
+North Dakota Court of Appeals,ndctapp  ,65
+Ohio Supreme Court,ohio  ,10269
+Ohio Court of Appeals,ohioctapp  ,136188
+Ohio Court of Claims,ohioctcl  ,1745
+Supreme Court of Oklahoma,okla  ,40382
+Court of Civil Appeals of Oklahoma,oklacivapp  ,3455
+Court of Criminal Appeals of Oklahoma,oklacrimapp  ,16879
+Oklahoma Judicial Ethics Advisory Panel,oklajeap  ,31
+Court on the Judiciary of Oklahoma,oklacoj  ,3
+Oklahoma Attorney General Reports,oklaag  ,11313
+Oregon Supreme Court,or  ,18955
+Court of Appeals of Oregon,orctapp  ,18687
+Oregon Tax Court,ortc  ,2609
+Supreme Court of Pennsylvania,pa  ,50350
+Superior Court of Pennsylvania,pasuperct  ,68027
+Commonwealth Court of Pennsylvania,pacommwct  ,15845
+Court of Judicial Discipline of Pennsylvania,cjdpa  ,75
+Supreme Court of Rhode Island,ri  ,17428
+Superior Court of Rhode Island,risuperct  ,3356
+Supreme Court of South Carolina,sc  ,21916
+Court of Appeals of South Carolina,scctapp  ,3996
+South Dakota Supreme Court,sd  ,10240
+Tennessee Supreme Court,tenn  ,8761
+Court of Appeals of Tennessee,tennctapp  ,20669
+Court of Criminal Appeals of Tennessee,tenncrimapp  ,22179
+Tennessee Court of Workers' Compensation Claims,tennworkcompcl  ,1310
+Tennessee Workers' Compensation Appeals Board,tennworkcompapp  ,367
+Tennessee Superior Court for Law and Equity,tennsuperct  ,453
+Texas Supreme Court,tex  ,18899
+Court of Appeals of Texas,texapp  ,407847
+Court of Criminal Appeals of Texas,texcrimapp  ,61401
+Texas Special Court of Review,texreview  ,5
+Texas Judicial Panel on Multidistrict Litigation,texjpml  ,31
+Texas Attorney General Reports,texag  ,22862
+Utah Supreme Court,utah  ,12514
+Court of Appeals of Utah,utahctapp  ,3454
+Supreme Court of Vermont,vt  ,9812
+Vermont Superior Court,vtsuperct  ,2663
+Supreme Court of Virginia,va  ,8480
+Court of Appeals of Virginia,vactapp  ,15484
+Washington Supreme Court,wash  ,26943
+Court of Appeals of Washington,washctapp  ,26626
+Washington Attorney General Reports,washag  ,166
+West Virginia Supreme Court,wva  ,20296
+Wisconsin Supreme Court,wis  ,16361
+Court of Appeals of Wisconsin,wisctapp  ,11625
+Wisconsin Attorney General Reports,wisag  ,1499
+Wyoming Supreme Court,wyo  ,8599
+United States Judicial Conference Committee,usjc  ,5
+United States Judicial Panel on Multidistrict Litigation,jpml  ,1122
+United States Special Tribunal of Texas,sttex  ,1
+United States Special Tribunals of Pennsylvania,stp  ,1
+Court of King's Bench,kingsbench  ,372

@@ -1,0 +1,1277 @@
+name,abbreviation,count
+Supreme Court of the United States,scotus  ,64453
+Court of Appeals for the First Circuit,ca1  ,36280
+Court of Appeals for the Second Circuit,ca2  ,66264
+Court of Appeals for the Third Circuit,ca3  ,75519
+Court of Appeals for the Fourth Circuit,ca4  ,138650
+Court of Appeals for the Fifth Circuit,ca5  ,165279
+Court of Appeals for the Sixth Circuit,ca6  ,78742
+Court of Appeals for the Seventh Circuit,ca7  ,67254
+Court of Appeals for the Eighth Circuit,ca8  ,78878
+Court of Appeals for the Ninth Circuit,ca9  ,135504
+Court of Appeals for the Tenth Circuit,ca10  ,56406
+Court of Appeals for the Eleventh Circuit,ca11  ,79255
+Court of Appeals for the D.C. Circuit,cadc  ,26918
+Court of Appeals for the Federal Circuit,cafc  ,35685
+United States Attorneys General,ag  ,1369
+United States Air Force Court of Criminal Appeals,afcca  ,1363
+Armed Services Board of Contract Appeals,asbca  ,2926
+Court of Appeals for the Armed Forces,armfor  ,1306
+Army Court of Criminal Appeals,acca  ,1783
+United States Court of Claims,cc  ,2196
+United States Court of Federal Claims,uscfc  ,19334
+Commerce Court,com  ,0
+Court of Customs and Patent Appeals,ccpa  ,2776
+United States Customs Court,cusc  ,161
+United States Tax Court,tax  ,60989
+United States Board of Tax Appeals,bta  ,24376
+Board of Immigration Appeals,bia  ,50
+Department of Justice Office of Legal Counsel,olc  ,124
+United States Court of Military Commission Review,mc  ,7
+Merit Systems Protection Board,mspb  ,2590
+Navy-Marine Corps Court of Criminal Appeals,nmcca  ,2043
+United States Court of Appeals for Veterans Claims,cavc  ,1076
+Board of Veterans' Appeals,bva  ,3998
+Emergency Court of Appeals,eca  ,97
+Temporary Emergency Court of Appeals,tecoa  ,0
+Foreign Intelligence Surveillance Court of Review,fiscr  ,2
+Foreign Intelligence Surveillance Court,fisc  ,5
+Special Court under the Regional Rail Reorganization Act,reglrailreorgct  ,40
+United States Court of International Trade,cit  ,4685
+Bankruptcy Appellate Panel of the First Circuit,bap1  ,283
+Bankruptcy Appellate Panel of the Second Circuit,bap2  ,27
+Bankruptcy Appellate Panel of the Sixth Circuit,bap6  ,254
+United States Bankruptcy Appellate Panel for the Eighth Circuit,bap8  ,514
+United States Bankruptcy Appellate Panel for the Ninth Circuit,bap9  ,3185
+Bankruptcy Appellate Panel of the Tenth Circuit,bap10  ,459
+"Bankruptcy Appellate Panel, D. Maine",bapme  ,2
+Bankruptcy Appellate Panel of Massachusetts,bapma  ,3
+"United States Bankruptcy Court, M.D. Alabama",almb  ,180
+"United States Bankruptcy Court, N.D. Alabama",alnb  ,459
+"United States Bankruptcy Court, S.D. Alabama",alsb  ,114
+"United States Bankruptcy Court, D. Alaska",akb  ,51
+"United States Bankruptcy Court, D. Arizona",arb  ,355
+"United States Bankruptcy Court, E.D. Arkansas",areb  ,520
+"United States Bankruptcy Court, W.D. Arkansas",arwb  ,241
+"United States Bankruptcy Court, C.D. California",cacb  ,568
+"United States Bankruptcy Court, E.D. California",caeb  ,274
+"United States Bankruptcy Court, N.D. California",canb  ,337
+"United States Bankruptcy Court, S.D. California",casb  ,348
+"United States Bankruptcy Court, D. Colorado",cob  ,744
+"United States Bankruptcy Court, D. Connecticut",ctb  ,822
+"United States Bankruptcy Court, D. Delaware",deb  ,873
+"United States Bankruptcy Court, District of Columbia",dcb  ,1
+"United States Bankruptcy Court, M.D. Florida",flmb  ,2870
+"United States Bankruptcy Court, N.D. Florida",flnb  ,266
+"United States Bankruptcy Court, S.D. Florida.",flsb  ,1632
+"United States Bankruptcy Court, M.D. Georgia",gamb  ,463
+"United States Bankruptcy Court, N.D. Georgia",ganb  ,812
+"United States Bankruptcy Court, S.D. Georgia",gasb  ,361
+"United States Bankruptcy Court, D. Hawaii",hib  ,163
+"United States Bankruptcy Court, D. Idaho",idb  ,430
+"United States Bankruptcy Court, C.D. Illinois",ilcb  ,428
+"United States Bankruptcy Court, N.D. Illinois",ilnb  ,1917
+"United States Bankruptcy Court, S.D. Illinois",ilsb  ,220
+"United States Bankruptcy Court, N.D. Indiana",innb  ,366
+"United States Bankruptcy Court, S.D. Indiana",insb  ,170
+"United States Bankruptcy Court, N.D. Iowa",ianb  ,397
+"United States Bankruptcy Court, S.D. Iowa",iasb  ,138
+"United States Bankruptcy Court, D. Kansas",ksb  ,624
+"United States Bankruptcy Court, E.D. Kentucky",kyeb  ,116
+"United States Bankruptcy Court, W.D. Kentucky",kywb  ,511
+"United States Bankruptcy Court, E.D. Louisiana",laeb  ,102
+"United States Bankruptcy Court, M.D. Louisiana",lamb  ,109
+"United States Bankruptcy Court, W.D. Louisiana",lawb  ,188
+"United States Bankruptcy Court, D. Maine",meb  ,319
+"United States Bankruptcy Court, D. Maryland",mdb  ,505
+"United States Bankruptcy Court, D. Massachusetts",mab  ,1502
+"United States Bankruptcy Court, E.D. Michigan",mieb  ,745
+"United States Bankruptcy Court, W.D. Michigan",miwb  ,404
+"United States Bankruptcy Court, D. Minnesota",mnb  ,688
+"United States Bankruptcy Court, N.D. Mississippi",msnb  ,172
+"United States Bankruptcy Court, S.D. Mississippi",mssb  ,98
+"United States Bankruptcy Court, E.D. Missouri",moeb  ,545
+"United States Bankruptcy Court, W.D. Missouri",mowb  ,1133
+"United States Bankruptcy Court, D. Montana",mtb  ,310
+"United States Bankruptcy Court, D. Nebraska",nebraskab  ,333
+"United States Bankruptcy Court, D. Nevada",nvb  ,198
+"United States Bankruptcy Court, D. New Hampshire",nhb  ,408
+"United States Bankruptcy Court, D. New Jersey",njb  ,635
+"United States Bankruptcy Court, D. New Mexico",nmb  ,312
+"United States Bankruptcy Court, E.D. New York",nyeb  ,1063
+"United States Bankruptcy Court, N.D. New York",nynb  ,355
+"United States Bankruptcy Court, S.D. New York",nysb  ,2457
+"United States Bankruptcy Court, W.D. New York",nywb  ,542
+"United States Bankruptcy Court, E.D. North Carolina",nceb  ,245
+"United States Bankruptcy Court, M.D. North Carolina",ncmb  ,191
+"United States Bankruptcy Court, W.D. North Carolina",ncwb  ,84
+"United States Bankruptcy Court, D. North Dakota",ndb  ,297
+"United States Bankruptcy Court, N.D. Ohio",ohnb  ,1780
+"United States Bankruptcy Court, S.D. Ohio",ohsb  ,1631
+"United States Bankruptcy Court, E.D. Oklahoma",okeb  ,98
+"United States Bankruptcy Court, N.D. Oklahoma",oknb  ,288
+"United States Bankruptcy Court, W.D. Oklahoma",okwb  ,268
+"United States Bankruptcy Court, D. Oregon",orb  ,384
+"United States Bankruptcy Court, E.D. Pennsylvania",paeb  ,2094
+"United States Bankruptcy Court, M.D. Pennsylvania",pamb  ,427
+"United States Bankruptcy Court, W.D. Pennsylvania",pawb  ,1057
+"United States Bankruptcy Court, D. Rhode Island",rib  ,448
+"United States Bankruptcy Court, D. South Carolina",scb  ,417
+"United States Bankruptcy Court, D. South Dakota",sdb  ,206
+"United States Bankruptcy Court, E.D. Tennessee",tneb  ,675
+"United States Bankruptcy Court, M.D. Tennessee",tnmb  ,388
+"United States Bankruptcy Court, W.D. Tennessee",tnwb  ,264
+"United States Bankruptcy Court, D. Tennessee",tennesseeb  ,0
+"United States Bankruptcy Court, E.D. Texas",txeb  ,245
+"United States Bankruptcy Court, N.D. Texas",txnb  ,848
+"United States Bankruptcy Court, S.D. Texas",txsb  ,565
+"United States Bankruptcy Court, W.D. Texas",txwb  ,435
+"United States Bankruptcy Court, D. Utah",utb  ,221
+"United States Bankruptcy Court, D. Vermont",vtb  ,343
+"United States Bankruptcy Court, E.D. Virginia",vaeb  ,1113
+"United States Bankruptcy Court, W.D. Virginia",vawb  ,416
+"United States Bankruptcy Court, E.D. Washington",waeb  ,53
+"United States Bankruptcy Court, W.D. Washington",wawb  ,148
+"United States Bankruptcy Court, N.D. West Virginia",wvnb  ,82
+"United States Bankruptcy Court, S.D. West Virginia",wvsb  ,41
+"United States Bankruptcy Court, E.D. Wisconsin",wieb  ,388
+"United States Bankruptcy Court, W.D. Wisconsin",wiwb  ,364
+"United States Bankruptcy Court, D. Wyoming",wyb  ,39
+"United States Bankruptcy Court, D. Guam",gub  ,2
+"United States Bankruptcy Court, Northern Mariana Islands",nmib  ,0
+"United States Bankruptcy Court, D. Puerto Rico",prb  ,152
+"United States Bankruptcy Court, D. Virgin Islands",vib  ,5
+United States District Court,usdistct  ,51
+"District Court, District of Columbia",dcd  ,34354
+"District Court, D. Alabama",ald  ,0
+"District Court, M.D. Alabama",almd  ,2266
+"District Court, N.D. Alabama",alnd  ,1247
+"District Court, S.D. Alabama",alsd  ,724
+"District Court, D. Alaska",akd  ,444
+"District Court, D. Arizona",azd  ,1286
+"District Court, E.D. Arkansas",ared  ,1190
+"District Court, W.D. Arkansas",arwd  ,810
+"District Court, D. California",californiad  ,8
+"District Court, C.D. California",cacd  ,3246
+"District Court, E.D. California",caed  ,1258
+"District Court, N.D. California",cand  ,4669
+"District Court, S.D. California",casd  ,1725
+Circuit Court for California,caca  ,0
+"District Court, D. Colorado",cod  ,3237
+"District Court, D. Connecticut",ctd  ,4495
+"District Court, D. Delaware",ded  ,3749
+"District Court, D. Florida",fld  ,0
+"District Court, M.D. Florida",flmd  ,2998
+"District Court, N.D. Florida",flnd  ,536
+"District Court, S.D. Florida",flsd  ,4193
+"Superior Court, S. D. Florida",superctsdfla  ,0
+"District Court, D. Georgia",gad  ,0
+"District Court, M.D. Georgia",gamd  ,837
+"District Court, N.D. Georgia",gand  ,2814
+"District Court, S.D. Georgia",gasd  ,771
+"District Court, D. Hawaii",hid  ,1321
+"District Court, D. Idaho",idd  ,430
+"District Court, C.D. Illinois",ilcd  ,1029
+"District Court, N.D. Illinois",ilnd  ,12460
+"District Court, S.D. Illinois",ilsd  ,505
+"District Court, E.D. Illinois",illinoised  ,184
+"District Court, D. Illinois",illinoisd  ,1
+"District Court, N.D. Indiana",innd  ,1829
+"District Court, S.D. Indiana",insd  ,1387
+"District Court, D. Indiana",indianad  ,3
+"District Court, D. Iowa",iad  ,0
+"District Court, N.D. Iowa",iand  ,1230
+"District Court, S.D. Iowa",iasd  ,1165
+"District Court, D. Kansas",ksd  ,4748
+"District Court, D. Kentucky",kyd  ,0
+"District Court, E.D. Kentucky",kyed  ,863
+"District Court, W.D. Kentucky",kywd  ,1011
+"District Court, D. Louisiana",lad  ,0
+"District Court, E.D. Louisiana",laed  ,2763
+"District Court, M.D. Louisiana",lamd  ,706
+"District Court, W.D. Louisiana",lawd  ,1223
+"District Court, Orleans",orld  ,0
+"District Court, D. Maine",med  ,2505
+"District Court, D. Maryland",mdd  ,5002
+"District Court, D. Massachusetts",mad  ,7532
+"District Court, D. Michigan",michd  ,0
+"District Court, E.D. Michigan",mied  ,5436
+"District Court, W.D. Michigan",miwd  ,1696
+"District Court, D. Minnesota",mnd  ,3249
+"District Court, D. Mississippi",missd  ,0
+"District Court, N.D. Mississippi",msnd  ,942
+"District Court, S.D. Mississippi",mssd  ,1696
+"District Court, D. Missouri",mod  ,0
+"District Court, E.D. Missouri",moed  ,2632
+"District Court, W.D. Missouri",mowd  ,1957
+"District Court, D. Montana",mtd  ,816
+"District Court, D. Nebraska",ned  ,1165
+"District Court, D. Nevada",nvd  ,1221
+"District Court, D. New Hampshire",nhd  ,912
+"District Court, D. New Jersey",njd  ,4865
+"District Court, D. New Mexico",nmd  ,1084
+"District Court, D. New York",nyd  ,0
+"District Court, E.D. New York",nyed  ,7792
+"District Court, N.D. New York",nynd  ,2580
+"District Court, S.D. New York",nysd  ,26736
+"District Court, W.D. New York",nywd  ,2924
+"District Court, E.D. North Carolina",nced  ,1076
+"District Court, M.D. North Carolina",ncmd  ,1083
+"District Court, W.D. North Carolina",ncwd  ,1061
+"District Court, D. North Dakota",ndd  ,606
+"District Court, D. North Carolina",ncd  ,0
+"District Court, N.D. Ohio",ohnd  ,3293
+"District Court, S.D. Ohio",ohsd  ,2860
+"District Court, D. Ohio",ohiod  ,3
+"District Court, E.D. Oklahoma",oked  ,174
+"District Court, N.D. Oklahoma",oknd  ,485
+"District Court, W.D. Oklahoma",okwd  ,1010
+"District Court, D. Oregon",ord  ,1859
+"District Court, E.D. Pennsylvania",paed  ,10441
+"District Court, M.D. Pennsylvania",pamd  ,2304
+"District Court, W.D. Pennsylvania",pawd  ,3250
+"District Court, D. Pennsylvania",pennsylvaniad  ,0
+"District Court, D. Rhode Island",rid  ,1556
+"District Court, D. South Carolina",scd  ,1474
+"District Court, E.D. South Carolina",southcarolinaed  ,181
+"District Court, W.D. South Carolina",southcarolinawd  ,95
+"District Court, D. South Dakota",sdd  ,867
+"District Court, E.D. Tennessee",tned  ,1363
+"District Court, M.D. Tennessee",tnmd  ,1147
+"District Court, W.D. Tennessee",tnwd  ,892
+"District Court, D. Tennessee",tennessed  ,3
+"District Court, D. Texas",texd  ,0
+"District Court, E.D. Texas",txed  ,1591
+"District Court, N.D. Texas",txnd  ,2412
+"District Court, S.D. Texas",txsd  ,3497
+"District Court, W.D. Texas",txwd  ,1283
+"District Court, D. Utah",utd  ,1237
+"District Court, D. Vermont",vtd  ,668
+"District Court, D. Virginia",vad  ,0
+"District Court, E.D. Virginia",vaed  ,4530
+"District Court, W.D. Virginia",vawd  ,2018
+"District Court, D. Washington",washd  ,0
+"District Court, E.D. Washington",waed  ,437
+"District Court, W.D. Washington",wawd  ,1146
+"District Court, D. West Virginia",wvad  ,0
+"District Court, N.D. West Virginia",wvnd  ,466
+"District Court, S.D. West Virginia",wvsd  ,1238
+"District Court, D. Wisconsin",wisd  ,0
+"District Court, E.D. Wisconsin",wied  ,2740
+"District Court, W.D. Wisconsin",wiwd  ,1181
+"District Court, D. Wyoming",wyd  ,481
+"District Court, Canal Zone",canalzoned  ,26
+"District Court, D. Guam",gud  ,38
+"District Court, Northern Mariana Islands",nmid  ,16
+"District Court, D. Puerto Rico",prd  ,4054
+"District Court, Virgin Islands",vid  ,656
+United States Circuit Court,uscirct  ,76
+U.S. Circuit Court for the District of Alabama,circtdal  ,0
+U.S. Circuit Court for the District of Middle Alabama,circtmdal  ,0
+U.S. Circuit Court for the District of Northern Alabama,circtndal  ,0
+U.S. Circuit Court for the District of Southern Alabama,circtsdal  ,0
+U.S. Circuit Court for the District of Arkansas,circtdar  ,0
+U.S. Circuit Court for the District of Eastern Arkansas,circtedar  ,0
+U.S. Circuit Court for the District of Western Arkansas,circtwdar  ,0
+U.S. Circuit Court for the District of Territory of Arkansas,circtdterrar  ,0
+U.S. Circuit Court for the District of California,circtdca  ,0
+U.S. Circuit Court for the District of Northern California,circtndca  ,0
+U.S. Circuit Court for the District of Southern California,circtsdca  ,0
+U.S. Circuit Court for the District of Colorado,circtdco  ,0
+U.S. Circuit Court for the District of Connecticut,circtdct  ,0
+U.S. Circuit Court for the District of Delaware,circtdel  ,0
+U.S. Circuit Court for the District of Georgia,circtdga  ,0
+U.S. Circuit Court for the Northern District of Georgia,circtndga  ,0
+U.S. Circuit Court for the Southern District of Georgia,circtsdga  ,0
+U.S. Circuit Court for the District of Idaho,circtdid  ,0
+U.S. Circuit Court for the District of Illinois,circtdil  ,0
+U.S. Circuit Court for the Eastern District of Illinois,circtedil  ,0
+U.S. Circuit Court for the Northern District of Illnois,circtndil  ,0
+U.S. Circuit Court for the Southern District of Illnois,circtsdil  ,0
+U.S. Circuit Court for the District of Indiana,circtdin  ,0
+U.S. Circuit Court for the District of Northern Iowa,circtnia  ,0
+U.S. Circuit Court for the Southern District of Iowa,circtsdia  ,0
+U.S. Circuit Court for the District of Iowa,circtdia  ,0
+U.S. Circuit Court for the District of Kansas,circtdks  ,0
+U.S. Circuit Court for the District of Eastern Kentucky,circtedky  ,0
+U.S. Circuit Court for the District of Kentucky,circtdky  ,0
+U.S. Circuit Court for the District of Western Kentucky,circtwdky  ,0
+U.S. Circuit Court for the District of Eastern Louisiana,circtedla  ,0
+U.S. Circuit Court for the District of Louisiana,circtdla  ,0
+U.S. Circuit Court for the District of Western Louisiana,circtwdla  ,0
+U.S. Circuit Court for the District of Maine,circtdme  ,0
+U.S. Circuit Court for the District of Maryland,circtdmd  ,0
+U.S. Circuit Court for the District of Massachusetts,circtdma  ,0
+U.S. Circuit Court for the District of Eastern Michigan,circtedmi  ,0
+U.S. Circuit Court for the District of Western Michigan,circtwdmi  ,0
+U.S. Circuit Court for the District of Michigan,circtdmi  ,0
+U.S. Circuit Court for the District of Minnesota,circtdmn  ,0
+U.S. Circuit Court for the Mississippi Territory,circtmissterr  ,1
+U.S. Circuit Court for the District of Northern Mississippi,circtndms  ,0
+U.S. Circuit Court for the District of Southern Mississippi,circtsdms  ,0
+U.S. Circuit Court for the District of Eastern Missouri,circtedmo  ,0
+U.S. Circuit Court for the District of Missouri,circtdmo  ,0
+U.S. Circuit Court for the District of Western Missouri,circtwdmo  ,0
+U.S. Circuit Court for the District of Montana,circtdmt  ,0
+U.S. Circuit Court for the District of Nebraska,circtdne  ,0
+U.S. Circuit Court for the District of Nevada,circtdnv  ,0
+U.S. Circuit Court for the District of New Hampshire,circtdnh  ,0
+U.S. Circuit Court for the District of New Jersey,circtdnj  ,0
+U.S. Circuit Court for New York,circtny  ,1
+U.S. Circuit Court for the District of Albany New York,circtdalbanyny  ,0
+U.S. Circuit Court for the District of Eastern New York,circtedny  ,0
+U.S. Circuit Court for the District of Northern New York,circtndny  ,0
+U.S. Circuit Court for the District of Southern New York,circtsdny  ,0
+U.S. Circuit Court for the District of Western New York,circtwdny  ,0
+U.S. Circuit Court for the District of Eastern North Carolina,circtednc  ,0
+U.S. Circuit Court for the District of North Carolina,circtnc  ,23
+U.S. Circuit Court District of Cape Fear (North Carolina),circtcapefearnc  ,0
+U.S. Circuit Court District of Edenton (North Carolina),circtdedenton  ,0
+U.S. Circuit Court District of New Bern (North Carolina),circtdnewbern  ,0
+U.S. Circuit Court District of Wilmington (North Carolina),circtdwilm  ,0
+U.S. Circuit Court District of Albemarle (North Carolina),circtdalb  ,0
+U.S. Circuit Court District of Pamptico (North Carolina),circtdpamptico  ,0
+U.S. Circuit Court for the District of Western North Carolina,circtwdnc  ,0
+U.S. Circuit Court for the District of North Dakota,circtdnd  ,0
+U.S. Circuit Court for the District of Northern Ohio,circtndoh  ,0
+U.S. Circuit Court for the District of Southern Ohio,circtsdoh  ,0
+U.S. Circuit Court for the District of Ohio,circtdoh  ,0
+U.S. Circuit Court for the District of Eastern Oklahoma,circtedok  ,0
+U.S. Circuit Court for the District of Western Oklahoma,circtwdok  ,0
+U.S. Circuit Court for the District of Oregon,circtdor  ,0
+U.S. Circuit Court for the District of Eastern Pennsylvania,circtedpa  ,0
+U.S. Circuit Court for the District of Middle Pennsylvania,circtmdpa  ,0
+U.S. Circuit Court for the District of Pennsylvania,circtdpa  ,2
+U.S. Circuit Court for the District of Western Pennsylvania,circtwdpa  ,0
+U.S. Circuit Court for the District of Rhode Island,circtdri  ,0
+U.S. Circuit Court for the District of South Carolina,circtdsc  ,0
+U.S. Circuit Court for the District of South Dakota,circtdsd  ,0
+U.S. Circuit Court for the District of Eastern Tennessee,circtedtn  ,0
+U.S. Circuit Court for the District of Middle Tennessee,circtmdtn  ,0
+U.S. Circuit Court for the District of Tennessee,circttenn  ,55
+U.S. Circuit Court for the District of Western Tennessee,circtwdtn  ,0
+U.S. Circuit Court for the District of Texas,circtdtx  ,0
+U.S. Circuit Court for the District of Eastern Texas,circtedtx  ,0
+U.S. Circuit Court for the District of Northern Texas,circtndtx  ,0
+U.S. Circuit Court for the District of Southern Texas,circtsdtex  ,0
+U.S. Circuit Court for the District of Western Texas,circtwdtex  ,0
+U.S. Circuit Court for the District of Utah,circtdut  ,0
+U.S. Circuit Court for the District of Vermont,circtdvt  ,0
+U.S. Circuit Court for the District of Virginia,circtdva  ,0
+U.S. Circuit Court for the District of Eastern Virginia,circtedva  ,0
+U.S. Circuit Court for the District of Western Virginia,circtwdva  ,0
+U.S. Circuit Court for the District of Eastern Washington,circtedwa  ,0
+U.S. Circuit Court for the District of Washington,circtdwa  ,0
+U.S. Circuit Court for the District of Western Washington,circtwdwa  ,0
+U.S. Circuit Court for the District of District of Columbia,circtddc  ,0
+U.S. Circuit Court for the District of Northern West Virginia,circtndwv  ,0
+U.S. Circuit Court for the District of Southern West Virginia,circtsdwv  ,0
+U.S. Circuit Court for the District of West Virginia,circtdwv  ,0
+U.S. Circuit Court for the District of Eastern Wisconsin,circtedwi  ,0
+U.S. Circuit Court for the District of Western Wisconsin,circtwdwi  ,0
+U.S. Circuit Court for the District of Wisconsin,circtdwi  ,0
+U.S. Circuit Court for the District of Wyoming,circtdwy  ,0
+Supreme Court of Alabama,ala  ,37649
+Alabama Court of Appeals,alactapp  ,17622
+Court of Criminal Appeals of Alabama,alacrimapp  ,15439
+Court of Civil Appeals of Alabama,alacivapp  ,13506
+Alaska Supreme Court,alaska  ,7658
+Court of Appeals of Alaska,alaskactapp  ,2843
+Arizona Supreme Court,ariz  ,10026
+Court of Appeals of Arizona,arizctapp  ,17517
+Arizona Superior Court,arizsuper  ,0
+Arizona Tax Court,ariztaxct  ,23
+Supreme Court of Arkansas,ark  ,22877
+Court of Appeals of Arkansas,arkctapp  ,7389
+Arkansas Workers' Compensation Commission,arkworkcompcom  ,0
+Arkansas Attorney General Reports,arkag  ,8456
+California Supreme Court,cal  ,47534
+California Court of Appeal,calctapp  ,147884
+Appellate Division of the Superior Court of California,calappdeptsuper  ,298
+"California Court of Appeals, 1st District",calctapp1d  ,8
+"California Court of Appeals, 2nd District",calctapp2d  ,21
+"California Court of Appeals, 3rd District",calctapp3d  ,8
+"California Court of Appeals, 4th District",calctapp4d  ,30
+"California Court of Appeals, 5th District",calctapp5d  ,2011
+"California Court of Appeals, 6th District",calctapp6d  ,7
+California Attorney General Reports,calag  ,1216
+California Superior Court,calsuperct  ,111
+"Superior Court of California, County of Alameda",calsuppctala  ,0
+"Superior Court of California, County of Alpine",calsuppctalp  ,0
+"Superior Court of California, County of Amador",calsuppctama  ,0
+"Superior Court of California, County of Butte",calsuppctbut  ,0
+"Superior Court of California, County of Calaveras",calsuppctcal  ,0
+"Superior Court of California, County of Colusa",calsuppctcol  ,0
+"Superior Court of California, County of Contra Costa",calsuppctcc  ,0
+"Superior Court of California, County of Del Norte",calsuppctdn  ,0
+"Superior Court of California, County of El Dorado",calsuppcted  ,0
+"Superior Court of California, County of Fresno",calsuppctfre  ,0
+"Superior Court of California, County of Glenn",calsuppctgle  ,0
+"Superior Court of California, County of Humboldt",calsuppcthum  ,0
+"Superior Court of California, County of Imperial",calsuppctimp  ,0
+"Superior Court of California, County of Inyo",calsuppctiny  ,0
+"Superior Court of California, County of Kern",calsuppctker  ,0
+"Superior Court of California, County of Kings",calsuppctkin  ,0
+"Superior Court of California, County of Lake",calsuppctlak  ,0
+"Superior Court of California, County of Lassen",calsuppctlas  ,0
+"Superior Court of California, County of Los Angeles",calsuppctla  ,0
+"Superior Court of California, County of Madera",calsuppctmad  ,0
+"Superior Court of California, County of Marin",calsuppctmrn  ,0
+"Superior Court of California, County of Mariposa",calsuppctmpa  ,0
+"Superior Court of California, County of Mendocino",calsuppctmen  ,0
+"Superior Court of California, County of Merced",calsuppctmer  ,0
+"Superior Court of California, County of Modoc",calsuppctmod  ,0
+"Superior Court of California, County of Mono",calsuppctmno  ,0
+"Superior Court of California, County of Monterey",calsuppctmon  ,0
+"Superior Court of California, County of Napa",calsuppctnap  ,0
+"Superior Court of California, County of Nevada",calsuppctnev  ,0
+"Superior Court of California, County of Orange",calsuppctora  ,0
+"Superior Court of California, County of Placer",calsuppctpla  ,0
+"Superior Court of California, County of Plumas",calsuppctplu  ,0
+"Superior Court of California, County of Riverside",calsuppctriv  ,0
+"Superior Court of California, County of Sacramento",calsuppctsac  ,0
+"Superior Court of California, County of San Benito",calsuppctsbt  ,0
+"Superior Court of California, County of San Bernardino",calsuppctsbd  ,0
+"Superior Court of California, County of San Diego",calsuppctsd  ,0
+"Superior Court of California, County of San Francisco",calsuppctsf  ,344
+"Superior Court of California, County of San Joaquin",calsuppctsj  ,0
+"Superior Court of California, County of San Luis Obispo",calsuppctslo  ,0
+"Superior Court of California, County of San Mateo",calsuppctsm  ,0
+"Superior Court of California, County of Santa Barbara",calsuppctsb  ,0
+"Superior Court of California, County of Santa Clara",calsuppctscl  ,0
+"Superior Court of California, County of Santa Cruz",calsuppctscr  ,0
+"Superior Court of California, County of Shasta",calsuppctsha  ,0
+"Superior Court of California, County of Sierra",calsuppctsie  ,0
+"Superior Court of California, County of Siskiyou",calsuppctsis  ,0
+"Superior Court of California, County of Solano",calsuppctsol  ,0
+"Superior Court of California, County of Sonoma",calsuppctson  ,0
+"Superior Court of California, County of Stanislaus",calsuppctsta  ,0
+"Superior Court of California, County of Sutter",calsuppctsut  ,0
+"Superior Court of California, County of Tehama",calsuppctteh  ,0
+"Superior Court of California, County of Trinity",calsuppcttri  ,0
+"Superior Court of California, County of Tulare",calsuppcttul  ,0
+"Superior Court of California, County of Tuolumne",calsuppcttuo  ,0
+"Superior Court of California, County of Ventura",calsuppctven  ,0
+"Superior Court of California, County of Yolo",calsuppctyol  ,0
+"Superior Court of California, County of Yuba",calsuppctyub  ,0
+"Municipal Court of California, County of Alameda",calmunctala  ,0
+"Municipal Court of California, County of Alpine",calmunctalp  ,0
+"Municipal Court of California, County of Amador",calmunctama  ,0
+"Municipal Court of California, County of Butte",calmunctbut  ,0
+"Municipal Court of California, County of Calaveras",calmunctcal  ,0
+"Municipal Court of California, County of Colusa",calmunctcol  ,0
+"Municipal Court of California, County of Contra Costa",calmunctcc  ,0
+"Municipal Court of California, County of Del Norte",calmunctdn  ,0
+"Municipal Court of California, County of El Dorado",calmuncted  ,0
+"Municipal Court of California, County of Fresno",calmunctfre  ,0
+"Municipal Court of California, County of Glenn",calmunctgle  ,0
+"Municipal Court of California, County of Humboldt",calmuncthum  ,0
+"Municipal Court of California, County of Imperial",calmunctimp  ,0
+"Municipal Court of California, County of Inyo",calmunctiny  ,0
+"Municipal Court of California, County of Kern",calmunctker  ,0
+"Municipal Court of California, County of Kings",calmunctkin  ,0
+"Municipal Court of California, County of Lake",calmunctlak  ,0
+"Municipal Court of California, County of Lassen",calmunctlas  ,0
+"Municipal Court of California, County of Los Angeles",calmunctla  ,0
+"Municipal Court of California, County of Madera",calmunctmad  ,0
+"Municipal Court of California, County of Marin",calmunctmrn  ,0
+"Municipal Court of California, County of Mariposa",calmunctmpa  ,0
+"Municipal Court of California, County of Mendocino",calmunctmen  ,0
+"Municipal Court of California, County of Merced",calmunctmer  ,0
+"Municipal Court of California, County of Modoc",calmunctmod  ,0
+"Municipal Court of California, County of Mono",calmunctmno  ,0
+"Municipal Court of California, County of Monterey",calmunctmon  ,0
+"Municipal Court of California, County of Napa",calmunctnap  ,0
+"Municipal Court of California, County of Nevada",calmunctnev  ,0
+"Municipal Court of California, County of Orange",calmunctora  ,0
+"Municipal Court of California, County of Placer",calmunctpla  ,0
+"Municipal Court of California, County of Plumas",calmunctplu  ,0
+"Municipal Court of California, County of Riverside",calmunctriv  ,0
+"Municipal Court of California, County of Sacramento",calmunctsac  ,0
+"Municipal Court of California, County of San Benito",calmunctsbt  ,0
+"Municipal Court of California, County of San Bernardino",calmunctsbd  ,0
+"Municipal Court of California, County of San Diego",calmunctsd  ,0
+"Municipal Court of California, County of San Francisco",calmunctsf  ,0
+"Municipal Court of California, County of San Joaquin",calmunctsj  ,0
+"Municipal Court of California, County of San Luis Obispo",calmunctslo  ,0
+"Municipal Court of California, County of San Mateo",calmunctsm  ,0
+"Municipal Court of California, County of Santa Barbara",calmunctsb  ,0
+"Municipal Court of California, County of Santa Clara",calmunctscl  ,0
+"Municipal Court of California, County of Santa Cruz",calmunctscr  ,0
+"Municipal Court of California, County of Shasta",calmunctsha  ,0
+"Municipal Court of California, County of Sierra",calmunctsie  ,0
+"Municipal Court of California, County of Siskiyou",calmunctsis  ,0
+"Municipal Court of California, County of Solano",calmunctsol  ,0
+"Municipal Court of California, County of Sonoma",calmunctson  ,0
+"Municipal Court of California, County of Stanislaus",calmunctsta  ,0
+"Municipal Court of California, County of Sutter",calmunctsut  ,0
+"Municipal Court of California, County of Tehama",calmunctteh  ,0
+"Municipal Court of California, County of Trinity",calmuncttri  ,0
+"Municipal Court of California, County of Tulare",calmuncttul  ,0
+"Municipal Court of California, County of Tuolumne",calmuncttuo  ,0
+"Municipal Court of California, County of Ventura",calmunctven  ,0
+"Municipal Court of California, County of Yolo",calmunctyol  ,0
+"Municipal Court of California, County of Yuba",calmunctyub  ,0
+"Califonia Justice Court, Butte County",caljustctbut  ,0
+"Califonia Justice Court, Colusa County",caljustctcol  ,0
+"Califonia Justice Court, Fresno County",caljustctfre  ,0
+"Califonia Justice Court, Glenn County",caljustctgle  ,0
+"Califonia Justice Court, Humboldt County",caljustcthum  ,0
+"Califonia Justice Court, Kern County",caljustctker  ,0
+"Califonia Justice Court, Kings County",caljustctkin  ,0
+"Califonia Justice Court, Lake County",caljustctlak  ,0
+"Califonia Justice Court, Los Angeles County",caljustctla  ,0
+"Califonia Justice Court, Madera County",caljustctmad  ,0
+"Califonia Justice Court, Mariposa County",caljustctmpa  ,0
+"Califonia Justice Court, Mendocino County",caljustctmen  ,0
+"Califonia Justice Court, Mono County",caljustctmno  ,0
+"Califonia Justice Court, Nevada County",caljustctnev  ,0
+"Califonia Justice Court, Placer County",caljustctpla  ,0
+"Califonia Justice Court, Plumas County",caljustctplu  ,0
+"Califonia Justice Court, San Benito County",caljustctsbt  ,0
+"Califonia Justice Court, San Bernardino County",caljustctsbd  ,0
+"Califonia Justice Court, Siskiyou County",caljustctsis  ,0
+"Califonia Justice Court, Tulare County",caljustcttul  ,0
+"Califonia Justice Court, Tuolumne County",caljustcttuo  ,0
+California District Court,caldistct  ,148
+San Fransisco District Court,sfdistct  ,42
+Monterey District Court,montereydistct  ,1
+"Placer District Court, California",placerdistct  ,1
+Sacramento District Court,sacdistct  ,15
+Shasta District Court,shastadistct  ,2
+Siskiyou District Court,siskiyoudistct  ,1
+Yreka District Court,yrekadistct  ,1
+Yuba District Court,yubadistct  ,2
+Santa Cruz District Court,santacruzdistct  ,1
+Trinity District Court,trinitydistct  ,5
+California Unemployment Insurance Appeals Board,caluneinsappbd  ,0
+California Office of Administrative Hearings,calofcadmhrg  ,0
+Supreme Court of Colorado,colo  ,17704
+Colorado Court of Appeals,coloctapp  ,14447
+Colorado Industrial Claim Appeals Office,coloworkcompcom  ,0
+Colorado Attorney General Reports,coloag  ,686
+Supreme Court of Connecticut,conn  ,15449
+Connecticut Appellate Court,connappct  ,6728
+Connecticut Superior Court,connsuperct  ,49128
+Connecticut Compensation Review Board,connworkcompcom  ,0
+Supreme Court of Delaware,del  ,12422
+Court of Chancery of Delaware,delch  ,3591
+Orphan's Court of Delaware,delorphct  ,2
+Superior Court of Delaware,delsuperct  ,7131
+Delaware Court of Common Pleas,delctcompl  ,276
+Delaware Family Court,delfamct  ,203
+Court on the Judiciary of Delaware.,deljudct  ,8
+District of Columbia Court of Appeals,dc  ,19292
+Supreme Court of Florida,fla  ,54875
+District Court of Appeal of Florida,fladistctapp  ,190253
+Florida First District Court of Appeal,fladistctapp1  ,0
+Florida Second District Court of Appeal,fladistctapp2  ,0
+Florida Third District Court of Appeal,fladistctapp3  ,0
+Florida Fourth District Court of Appeal,fladistctapp4  ,0
+Florida Fifth District Court of Appeal,fladistctapp5  ,0
+Circuit Court of the 1st Judicial Circuit of Florida,flacirct1  ,0
+"Circuit Court of the 1st Judicial Circuit of Florida, Escambia County",flacirct1esc  ,23
+"Circuit Court of the 1st Judicial Circuit of Florida, Okaloosa County",flacirct1oka  ,2
+"Circuit Court of the 1st Judicial Circuit of Florida, Santa Rosa County",flacirct1san  ,11
+"Circuit Court of the 1st Judicial Circuit of Florida, Walton County",flacirct1wal  ,2
+Circuit Court of the 2nd Judicial Circuit of Florida,flacirct2  ,0
+"Circuit Court of the 2nd Judicial Circuit of Florida, Franklin County",flacirct2fra  ,0
+"Circuit Court of the 2nd Judicial Circuit of Florida, Gadsden County",flacirct2gad  ,2
+"Circuit Court of the 2nd Judicial Circuit of Florida, Jefferson County",flacirct2jef  ,0
+"Circuit Court of the 2nd Judicial Circuit of Florida, Leon County",flacirct2leo  ,78
+"Circuit Court of the 2nd Judicial Circuit of Florida, Liberty County",flacirct2lib  ,0
+"Circuit Court of the 2nd Judicial Circuit of Florida, Wakulla County",flacirct2wak  ,0
+Circuit Court of the 3rd Judicial Circuit of Florida,flacirct3  ,0
+"Circuit Court of the 3rd Judicial Circuit of Florida, Columbia County",flacirct3col  ,2
+"Circuit Court of the 3rd Judicial Circuit of Florida, Dixie County",flacirct3dix  ,0
+"Circuit Court of the 3rd Judicial Circuit of Florida, Hamilton County",flacirct3ham  ,1
+"Circuit Court of the 3rd Judicial Circuit of Florida, Lafayette County",flacirct3laf  ,0
+"Circuit Court of the 3rd Judicial Circuit of Florida, Madison County",flacirct3mad  ,0
+"Circuit Court of the 3rd Judicial Circuit of Florida, Suwannee County",flacirct3suw  ,1
+"Circuit Court of the 3rd Judicial Circuit of Florida, Taylor County",flacirct3tay  ,0
+Circuit Court of the 4th Judicial Circuit of Florida,flacirct4  ,0
+"Circuit Court of the 4th Judicial Circuit of Florida, Clay County",flacirct4cla  ,3
+"Circuit Court of the 4th Judicial Circuit of Florida, Duval County",flacirct4duv  ,200
+"Circuit Court of the 4th Judicial Circuit of Florida, Nassau County",flacirct4nas  ,5
+Circuit Court of the 5th Judicial Circuit of Florida,flacirct5  ,0
+"Circuit Court of the 5th Judicial Circuit of Florida, Citrus County",flacirct5cit  ,3
+"Circuit Court of the 5th Judicial Circuit of Florida, Hernando County",flacirct5her  ,0
+"Circuit Court of the 5th Judicial Circuit of Florida, Lake County",flacirct5lak  ,102
+"Circuit Court of the 5th Judicial Circuit of Florida, Marion County",flacirct5mar  ,12
+"Circuit Court of the 5th Judicial Circuit of Florida, Sumter County",flacirct5sum  ,6
+Circuit Court of the 6th Judicial Circuit of Florida,flacirct6  ,0
+"Circuit Court of the 6th Judicial Circuit of Florida, Pasco County",flacirct6pas  ,1
+"Circuit Court of the 6th Judicial Circuit of Florida, Pinellas County",flacirct6pin  ,50
+Circuit Court of the 7th Judicial Circuit of Florida,flacirct7  ,0
+"Circuit Court of the 7th Judicial Circuit of Florida, Flagler County",flacirct7fla  ,3
+"Circuit Court of the 7th Judicial Circuit of Florida, Putnam County",flacirct7put  ,0
+"Circuit Court of the 7th Judicial Circuit of Florida, St. Johns County",flacirct7stj  ,0
+"Circuit Court of the 7th Judicial Circuit of Florida, Volusia County",flacirct7vol  ,11
+Circuit Court of the 8th Judicial Circuit of Florida,flacirct8  ,0
+"Circuit Court of the 8th Judicial Circuit of Florida, Alachua County",flacirct8ala  ,6
+"Circuit Court of the 8th Judicial Circuit of Florida, Baker County",flacirct8bak  ,0
+"Circuit Court of the 8th Judicial Circuit of Florida, Bradford County",flacirct8bra  ,2
+"Circuit Court of the 8th Judicial Circuit of Florida, Gilchrist County",flacirct8gil  ,0
+"Circuit Court of the 8th Judicial Circuit of Florida, Levy County",flacirct8lev  ,1
+"Circuit Court of the 8th Judicial Circuit of Florida, Union County",flacirct8uni  ,1
+Circuit Court of the 9th Judicial Circuit of Florida,flacirct9  ,0
+"Circuit Court of the 9th Judicial Circuit of Florida, Orange County",flacirct9ora  ,14
+"Circuit Court of the 9th Judicial Circuit of Florida, Osceola County",flacirct9osc  ,2
+Circuit Court of the 10th Judicial Circuit of Florida,flacirct10  ,0
+"Circuit Court of the 10th Judicial Circuit of Florida, Hardee County",flacirct10har  ,1
+"Circuit Court of the 10th Judicial Circuit of Florida, Highlands County",flacirct10hig  ,1
+"Circuit Court of the 10th Judicial Circuit of Florida, Polk County",flacirct10pol  ,13
+Circuit Court of the 11th Judicial Circuit of Florida,flacirct11  ,0
+"Circuit Court of the 11th Judicial Circuit of Florida, Miami-Dade County",flacirct11mia  ,861
+Circuit Court of the 12th Judicial Circuit of Florida,flacirct12  ,0
+"Circuit Court of the 12th Judicial Circuit of Florida, De Soto County",flacirct12des  ,1
+"Circuit Court of the 12th Judicial Circuit of Florida, Manatee County",flacirct12man  ,4
+"Circuit Court of the 12th Judicial Circuit of Florida, Sarasota County",flacirct12sar  ,7
+Circuit Court of the 13th Judicial Circuit of Florida,flacirct13  ,0
+"Circuit Court of the 13th Judicial Circuit of Florida, Hillsborough County",flacirct13hil  ,50
+Circuit Court of the 14th Judicial Circuit of Florida,flacirct14  ,0
+"Circuit Court of the 14th Judicial Circuit of Florida, Bay County",flacirct14bay  ,1
+"Circuit Court of the 14th Judicial Circuit of Florida, Calhoun County",flacirct14cal  ,1
+"Circuit Court of the 14th Judicial Circuit of Florida, Gulf County",flacirct14gul  ,0
+"Circuit Court of the 14th Judicial Circuit of Florida, Holmes County",flacirct14hol  ,0
+"Circuit Court of the 14th Judicial Circuit of Florida, Jackson County",flacirct14jac  ,0
+"Circuit Court of the 14th Judicial Circuit of Florida, Washington County",flacirct14was  ,0
+Circuit Court of the 15th Judicial Circuit of Florida,flacirct15  ,0
+"Circuit Court of the 15th Judicial Circuit of Florida, Palm Beach County",flacirct15pal  ,206
+Circuit Court of the 16th Judicial Circuit of Florida,flacirct16  ,0
+"Circuit Court of the 16th Judicial Circuit of Florida, Monroe County",flacirct16mon  ,42
+Circuit Court of the 17th Judicial Circuit of Florida,flacirct17  ,0
+"Circuit Court of the 17th Judicial Circuit of Florida, Broward County",flacirct17bro  ,103
+Circuit Court of the 18th Judicial Circuit of Florida,flacirct18  ,0
+"Circuit Court of the 18th Judicial Circuit of Florida, Brevard County",flacirct18bre  ,14
+"Circuit Court of the 18th Judicial Circuit of Florida, Seminole County",flacirct18sem  ,6
+Circuit Court of the 19th Judicial Circuit of Florida,flacirct19  ,0
+"Circuit Court of the 19th Judicial Circuit of Florida, Indian River County",flacirct19ind  ,12
+"Circuit Court of the 19th Judicial Circuit of Florida, Martin County",flacirct19mar  ,10
+"Circuit Court of the 19th Judicial Circuit of Florida, Okeechobee County",flacirct19oke  ,7
+"Circuit Court of the 19th Judicial Circuit of Florida, St. Lucie County",flacirct19stl  ,21
+Circuit Court of the 20th Judicial Circuit of Florida,flacirct20  ,0
+"Circuit Court of the 20th Judicial Circuit of Florida, Charlotte County",flacirct20cha  ,1
+"Circuit Court of the 20th Judicial Circuit of Florida, Collier County",flacirct20col  ,6
+"Circuit Court of the 20th Judicial Circuit of Florida, Glades County",flacirct20gla  ,2
+"Circuit Court of the 20th Judicial Circuit of Florida, Hendry County",flacirct20hen  ,1
+"Circuit Court of the 20th Judicial Circuit of Florida, Lee County",flacirct20lee  ,5
+Florida County Courts,flactyct  ,60
+Alachua County Court,flactyct1  ,1
+Baker County Court,flactyct2  ,0
+Bay County Court,flactyct3  ,11
+Bradford County Court,flactyct4  ,0
+Brevard County Court,flactyct5  ,9
+Broward County Court,flactyct6  ,52
+Calhoun County Court,flactyct7  ,0
+Charlotte County Court,flactyct8  ,0
+Citrus County Court,flactyct9  ,0
+Clay County Court,flactyct10  ,0
+Collier County Court,flactyct11  ,0
+Columbia County Court,flactyct12  ,6
+De Soto County Court,flactyct13  ,0
+Dixie County Court,flactyct14  ,0
+Duval County Court,flactyct15  ,7
+Escambia County Court,flactyct16  ,0
+Flagler County Court,flactyct17  ,1
+Franklin County Court,flactyct18  ,6
+Gadsden County Court,flactyct19  ,0
+Gilchrist County Court,flactyct20  ,0
+Glades County Court,flactyct21  ,0
+Gulf County Court,flactyct22  ,0
+Hamilton County Court,flactyct23  ,1
+Hardee County Court,flactyct24  ,0
+Hendry County Court,flactyct25  ,0
+Hernando County Court,flactyct26  ,0
+Highlands County Court,flactyct27  ,0
+Hillsborough County Court,flactyct28  ,4
+Holmes County Court,flactyct29  ,0
+Indian River County Court,flactyct30  ,4
+Jackson County Court,flactyct31  ,0
+Jefferson County Court,flactyct32  ,10
+Lafayette County Court,flactyct33  ,0
+Lake County Court,flactyct34  ,2
+Lee County Court,flactyct35  ,6
+Leon County Court,flactyct36  ,3
+Levy County Court,flactyct37  ,0
+Liberty County Court,flactyct38  ,0
+Madison County Court,flactyct39  ,2
+Manatee County Court,flactyct40  ,6
+Marion County Court,flactyct41  ,2
+Martin County Court,flactyct42  ,0
+Miami-Dade County Court,flactyct43  ,50
+Monroe County Court,flactyct44  ,18
+Nassau County Court,flactyct45  ,0
+Okaloosa County Court,flactyct46  ,1
+Okeechobee County Court,flactyct47  ,0
+Orange County Court,flactyct48  ,66
+Osceola County Court,flactyct49  ,4
+Palm Beach County Court,flactyct50  ,100
+Pasco County Court,flactyct51  ,0
+Pinellas County Court,flactyct52  ,9
+Polk County Court,flactyct53  ,13
+Putnam County Court,flactyct54  ,0
+St. Johns County Court,flactyct55  ,0
+St. Lucie County Court,flactyct56  ,2
+Santa Rosa County Court,flactyct57  ,0
+Sarasota County Court,flactyct58  ,4
+Seminole County Court,flactyct59  ,1
+Sumter County Court,flactyct60  ,0
+Suwannee County Court,flactyct61  ,0
+Taylor County Court,flactyct62  ,0
+Union County Court,flactyct63  ,0
+Volusia County Court,flactyct64  ,73
+Wakulla County Court,flactyct65  ,0
+Walton County Court,flactyct66  ,0
+Washington County Court,flactyct67  ,1
+Florida's Civil and Criminal Court of Records,flactyctrec  ,0
+Brevard County Civil and Criminal Court of Record,flactyctrec5  ,2
+Broward County Civil and Criminal Court of Record,flactyctrec7  ,1
+Dade County Civil and Criminal Court of Record,flactyctrec6  ,24
+Duval County Civil and Criminal Court of Record,flactyctrec1  ,12
+Escambia County Civil and Criminal Court of Record,flactyctrec4  ,2
+Palm Beach County Civil and Criminal Court of Record,flactyctrec2  ,1
+Pinellas County Civil and Criminal Court of Record,flactyctrec3  ,2
+Florida Judge's Courts,flajudct  ,0
+Broward County Judge's Court,flajudct9  ,1
+Charlotte County Judge's Court,flajudct1  ,1
+Dade County Judge's Court,flajudct2  ,27
+Duval County Judge's Court,flajudct13  ,1
+Hamilton County Judge's Court,flajudct3  ,2
+Lake County Judge's Court,flajudct8  ,2
+Lee County Judge's Court,flajudct5  ,1
+Monroe County Judge Court,flajudct11  ,0
+Orange County Judge's Court,flajudct4  ,1
+Palm Beach County Judge's Court,flajudct12  ,42
+Pinellas County Judge's Court,flajudct10  ,3
+Sarasota County Judge's Court,flajudct14  ,3
+Suwannee County Judge's Court,flajudct7  ,1
+Volusia County Judge's Court,flajudct6  ,1
+Florida Small Claims Courts,flasmclct  ,0
+Broward County Small Claims Court,flasmclct1  ,2
+Dade County Small Claims Court,flasmclct3  ,41
+Palm Beach County Small Claims Court,flasmclct2  ,1
+St. Lucie County Small Claims Court,flasmclct4  ,6
+Florida Municipal Courts,flamunict  ,0
+Miami Beach Municipal Court,flamunict1  ,2
+Miami Municipal Court,flamunict3  ,5
+Surfside Municipal Court,flamunict2  ,2
+Florida Juvenile and Domestic Relations Court,flajuv  ,0
+Palm Beach County Juvenile and Domestic Relations Court,flajuv1  ,7
+Florida Public Service Commission,flapubserv  ,278
+Florida Industrial Commission,flaindcommn  ,105
+Florida Real Estate Commission,flarealestcommn  ,5
+Dade County Property Appraisal Adjustment Board,dadectypropbd  ,6
+Florida Department of Health and Rehabilitative Services,fladepthrehabil  ,1
+Jacksonville Civil Service Board,jaxcivservbd  ,1
+State of Florida Department of Environmental Regulation,fladeptenvreg  ,1
+State of Florida Department of Revenue,fladeptrev  ,1
+State of Florida Division of Administrative Hearings,fladivadminhrg  ,195
+Florida Attorney General Reports,flaag  ,3982
+Circuit Court for the Judicial Circuits of Florida,flacirct  ,2129
+Supreme Court of Georgia,ga  ,72875
+Court of Appeals of Georgia,gactapp  ,111261
+Georgia Court of Oyer and Terminer,gaoyertermct  ,1
+Hawaii Supreme Court,haw  ,8879
+Hawaii Intermediate Court of Appeals,hawapp  ,8374
+Idaho Supreme Court,idaho  ,17926
+Idaho Court of Appeals,idahoctapp  ,9686
+Illinois Supreme Court,ill  ,25073
+Appellate Court of Illinois,illappct  ,82841
+Indiana Supreme Court,ind  ,17216
+Indiana Court of Appeals,indctapp  ,51186
+Indiana Tax Court,indtc  ,685
+Indiana Circuit Court,indcirct  ,1
+Supreme Court of Iowa,iowa  ,23722
+Court of Appeals of Iowa,iowactapp  ,15305
+Supreme Court of Kansas,kan  ,11873
+Court of Appeals of Kansas,kanctapp  ,10501
+Kansas Attorney General Reports,kanag  ,1193
+Kentucky Supreme Court,ky  ,8234
+Court of Appeals of Kentucky,kyctapp  ,17152
+Court of Appeals of Kentucky (pre-1976),kyctapphigh  ,21644
+Supreme Court of Louisiana,la  ,61595
+Louisiana Court of Appeal,lactapp  ,73762
+Superior Court of Louisiana,lasuperct  ,1
+Louisiana Attorney General Reports,laag  ,7302
+Supreme Judicial Court of Maine,me  ,29040
+Court of Appeals of Maryland,md  ,23036
+Court of Special Appeals of Maryland,mdctspecapp  ,8750
+Maryland Attorney General Reports,mdag  ,366
+Massachusetts Supreme Judicial Court,mass  ,9646
+Massachusetts Appeals Court,massappct  ,3750
+Massachusetts Superior Court,masssuperct  ,0
+Massachusetts District Court,massdistct  ,0
+Boston Municipal Court,massdistctbos  ,3
+Massachusetts Land Court,masslandct  ,0
+Massachusetts Department of Industrial Accidents,maworkcompcom  ,0
+Michigan Supreme Court,mich  ,56475
+Michigan Court of Appeals,michctapp  ,37377
+Supreme Court of Minnesota,minn  ,22077
+Court of Appeals of Minnesota,minnctapp  ,13310
+Minnesota Attorney General Reports,minnag  ,101
+Mississippi Supreme Court,miss  ,28842
+Court of Appeals of Mississippi,missctapp  ,9734
+Supreme Court of Missouri,mo  ,24025
+Missouri Court of Appeals,moctapp  ,83871
+Missouri Attorney General Reports,moag  ,2561
+Montana Supreme Court,mont  ,34139
+Montana Tax Appeal Board,monttc  ,2
+Montana Attorney General Reports,montag  ,0
+Nebraska Supreme Court,neb  ,37236
+Nebraska Court of Appeals,nebctapp  ,5022
+Nebraska Attorney General Reports,nebag  ,2615
+Nevada Supreme Court,nev  ,25088
+Supreme Court of New Hampshire,nh  ,11744
+Supreme Court of New Jersey,nj  ,22964
+New Jersey Superior Court,njsuperctappdiv  ,33400
+New Jersey Tax Court,njtaxct  ,11
+New Jersey Court of Chancery,njch  ,3309
+New Mexico Supreme Court,nm  ,10253
+New Mexico Court of Appeals,nmctapp  ,11057
+New York Court of Appeals,ny  ,123651
+New York Court of Assizes,nyctassizes  ,8
+New York Court on the Judiciary,nyjudct  ,11
+Court for the Trial of Impeachments and Correction of Errors,nycterr  ,1029
+New York Court of General Session of the Peace,nygensess  ,593
+"New York Court of General Sessions, Lewis County",nygensesslewis  ,0
+Commission of Appeals,nycommnapp  ,94
+Constitutional Court of New York,nyconct  ,2
+Court Of Arbitration Of The Chamber Of Commerce Of New York,nyarbct  ,1
+New York State Assembly,nystateassembly  ,70
+New York Executive Chamber,nyexecchamber  ,4
+New York Marine Court,nymarct  ,211
+Court Of Oyer And Terminer New York,nyoytermct  ,173
+"Oyer and Terminer, New York County",nyoytermctnyc  ,1
+"Oyer and Terminer, Queens County",nyoyqueens  ,1
+"Oyer and Terminer, Washington County",nyoytermctwash  ,1
+"Oyer and Terminer, Rensselaer County",nyoytermctren  ,1
+"Oyer and Terminer, Albany County",nyoytermctalb  ,7
+New York Court of Chancery,nychanct  ,3813
+Saratoga Chancery Court,nychanctsara  ,429
+New York Circuit Court,nycirct  ,98
+"New York Circuit Court, Albany County",nyciralbanycty  ,1
+"New York Circuit Court, Columbia County",nycircolcty  ,2
+"New York Circuit Court, Delaware County",nycirdelcty  ,1
+"New York Circuit Court, Dutchess County",nycirdutchcty  ,1
+"New York Circuit Court, Kings County",nycirkingscty  ,2
+"New York Circuit Court, Monroe County",nycirmonroecty  ,0
+"New York Circuit Court, Oneida County",nycironeidacty  ,1
+"New York Circuit Court, Oswego County",nyciroswegocty  ,0
+New York Court of Sessions,nysessct  ,26
+"Court of Sessions, New York County",nysessctnyc  ,1
+"New York Court of Session, Albany County",nysessctalbany  ,2
+"New York Court of Session, Chautauqua County",nysessctchauta  ,1
+"New York Court of Sessions, Genesee County",nysessctgenesee  ,1
+"New York Court of Sessions, Lewis County",nysessctlewis  ,1
+"New York Court of Sessions, Orange County",nysessctorange  ,1
+"New York Court of Sessions, Queens County",nysessctqueens  ,3
+"New York Court of Sessions, Rensselaer County",nysessctren  ,1
+"New York Court of Sessions, Rockland County",nysessctrock  ,1
+"New York Court of Sessions, Ulster County",nysessctulster  ,1
+New York Court of Special Session,nyspecsessct  ,461
+Albany Court of Special Sessions,nyalbspecsess  ,2
+New York City Court of Special Sessions,nynycspecsess  ,3
+Yonkers Court of Special Sessions,nyspecsessyonk  ,1
+Appellate Division of the Supreme Court of the State of New York,nyappdiv  ,723187
+Appellate Terms of the Supreme Court of New York,nyappterm  ,17978
+New York Supreme Court,nysupct  ,114133
+"New York Supreme Court, Albany County",nysupctalbany  ,0
+"New York Supreme Court, Allegany County",nysupctalgny  ,0
+"New York Supreme Court, Bronx County",nysupctbrnx  ,0
+"New York Supreme Court, Broome County",nysupctbrm  ,0
+"New York Supreme Court, Cattaraugus County",nysupctctrgs  ,0
+"New York Supreme Court, Cayuga County",nysupctcayuga  ,0
+"New York Supreme Court, Chautauqua County",nysupctchtq  ,0
+"New York Supreme Court, Chemung County",nysupctchmng  ,0
+"New York Supreme Court, Chenango County",nysupctchenango  ,0
+"New York Supreme Court, Clinton County",nysupctclinton  ,0
+"New York Supreme Court, Columbia County",nysupctclmb  ,0
+"New York Supreme Court, Cortland County",nysupctcrtlnd  ,0
+"New York Supreme Court, Delaware County",nysupctdlwr  ,0
+"New York Supreme Court, Dutchess County",nysupctdtchss  ,0
+"New York Supreme Court, Erie County",nysupcterie  ,0
+"New York Supreme Court, Essex County",nysupctessex  ,0
+"New York Supreme Court, Franklin County",nysupctfrnkln  ,0
+"New York Supreme Court, Fulton County",nysupctfltn  ,0
+"New York Supreme Court, Genesee County",nysupctgnss  ,0
+"New York Supreme Court, Greene County",nysupctgrn  ,0
+"New York Supreme Court, Herkimer County",nysupcthrkmr  ,0
+"New York Supreme Court, Jefferson County",nysupctjffrsn  ,0
+"New York Supreme Court, Kings County",nysupctkings  ,0
+"New York Supreme Court, Lewis County",nysupctlewis  ,0
+"New York Supreme Court, Livingston County",nysupctlvngstn  ,0
+"New York Supreme Court, Madison County",nysupctmdsn  ,0
+"New York Supreme Court, Monroe County",nysupctmonroe  ,0
+"New York Supreme Court, Montgomery County",nysupctmntgmry  ,0
+"New York Supreme Court, Nassau County",nysupctnss  ,0
+"New York Supreme Court, New York County",nysupctnewyork  ,0
+"New York Supreme Court, Niagara County",nysupctniagra  ,0
+"New York Supreme Court, Oneida County",nysupctoneida  ,0
+"New York Supreme Court, Onondaga County",nysupctnndg  ,0
+"New York Supreme Court, Ontario County",nysupctntr  ,0
+"New York Supreme Court, Orange County",nysupctorange  ,0
+"New York Supreme Court, Orleans County",nysupctrlns  ,0
+"New York Supreme Court, Oswego County",nysupctswg  ,0
+"New York Supreme Court, Otsego County",nysupctostego  ,0
+"New York Supreme Court, Putnam County",nysupctptnm  ,0
+"New York Supreme Court, Queens County",nysupctqueens  ,0
+"New York Supreme Court, Rensselaer County",nysupctren  ,0
+"New York Supreme Court, Richmond County",nysupctrichmond  ,0
+"New York Supreme Court, Rockland County",nysupctrcklnd  ,0
+"New York Supreme Court, Saratoga County",nysupctsrtg  ,0
+"New York Supreme Court, Schenectady County",nysupctschnec  ,0
+"New York Supreme Court, Schoharie County",nysupctscho  ,0
+"New York Supreme Court, Schuyler County",nysupctschuy  ,0
+"New York Supreme Court, Seneca County",nysupctsnc  ,0
+"New York Supreme Court, St. Lawrence County",nysupctsntlw  ,0
+"New York Supreme Court, Steuben County",nysupctstbn  ,0
+"New York Supreme Court, Suffolk County",nysuprctfflk  ,0
+"New York Supreme Court, Sullivan County",nysupctsllvn  ,0
+"New York Supreme Court, Tioga County",nysupcttioga  ,0
+"New York Supreme Court, Tompkins County",nysupcttmpkns  ,0
+"New York Supreme Court, Ulster County",nysupctulster  ,0
+"New York Supreme Court, Warren County",nysupctwarren  ,0
+"New York Supreme Court, Washington County",nysupctwash  ,0
+"New York Supreme Court, Wayne County",nysupctwayne  ,0
+"New York Supreme Court, Westchester County",nysupctwster  ,0
+"New York Supreme Court, Wyoming County",nysupctwyom  ,0
+"New York Supreme Court, Yates County",nysupctyates  ,0
+New York County Courts,nycountyct  ,5059
+"New York County Court, Albany County",nyalbanyctyct  ,0
+"New York County Court, Allegany County",nyalleganyctyct  ,1
+Bronx County Court,nybronxctyct  ,3
+"New York County Court, Broome County",nybroomectyct  ,7
+"New York County Court, Cattaraugus County",nycattctyct  ,3
+"New York County Court, Cayuga County ",nycayugactyct  ,4
+"New York County Court, Chautauqua County",nychautctyct  ,3
+"New York County Court, Chemung County",nychemungctyct  ,2
+"New York County Court, Chenango County",nychenangoctyct  ,8
+"New York County Court, Clinton County",nyclintonctyct  ,4
+"New York County Court, Columbia County",nycolumctyct  ,0
+"New York County Court, Cortland County",nycortlandctyct  ,1
+"New York County Court, Delaware County",nydelawarectyct  ,4
+"New York County Court, Dutchess County",nydutchessctyct  ,5
+"New York County Court, Erie County",nyeriectyct  ,21
+"New York County Court, Essex County",nyessexctyct  ,0
+"New York County Court, Franklin County",nyfrankctyct  ,0
+"New York County Court, Fulton County",nyfultonctyct  ,2
+"New York County Court, Genesee County",nygenessctyct  ,0
+"New York County Court, Greene County",nygreenectyct  ,0
+"New York County Court, Hamilton County",nyhamilctyct  ,0
+"New York County Court, Herkimer County",nyherkimerctyct  ,7
+"New York County Court, Jefferson County",nyjeffctyct  ,0
+"New York County Court, Kings County",nykingsctyct  ,36
+"New York County Court, Lewis County",nylewisctyct  ,2
+"New York County Court, Livingston County",nylivingstctyct  ,3
+"New York County Court, Montgomery County",nymontctyct  ,7
+"New York County Court, Madison County",nymadctyct  ,0
+"New York County Court, Monroe County",nymonroectyct  ,0
+"New York County Court, Nassau County",nynassctyct  ,0
+"New York County Court, Niagara County",nyniagaractyct  ,8
+"New York County Court, Onieda County",nyoniedactyct  ,1
+"New York County Court, Orange County",nyorangectyct  ,0
+Oneida County Court,nyoneidactyct  ,25
+"New York County Court, Onondaga County",nyonondagactyct  ,3
+"New York County Court, Ontario County",nyontarioctyct  ,4
+"New York County Court, Orleans County",nyorleansctyct  ,4
+"New York County Court, Oswego County",nyoswegoctyct  ,1
+"New York County Court, Otsego County",nyotsegoctyct  ,3
+"New York County Court, Putnam County",nyputnamctyct  ,10
+"New York County Court, Queens County",nyqueensctyct  ,18
+"New York County Court, Rensselaer County",nyrensctyct  ,9
+"New York County Court, Richmond County",nyrichmondctyct  ,0
+"New York County Court, Rockland County",nyrocklandctyct  ,5
+"New York County Court, Saratoga County",nysaratogactyct  ,5
+"New York County Court, Schenectady County",nyschenctyct  ,6
+"New York County Court, Schoharie County",nyschoharctyct  ,1
+"New York County Court, Schuyler County",nyschuylerctyct  ,2
+"New York County Court, Seneca County",nysenctyct  ,0
+"New York County Court, St. Lawrence County",nystlawctyct  ,2
+"New York County Court, Steuben County",nysteubenctyct  ,2
+"New York County Court, Suffolk County",nysuffolkctyct  ,6
+"New York County Court, Sullivan County",nysullivanctyct  ,5
+"New York County Court, Tioga County",nytiogactyct  ,3
+"New York County Court, Tompkins County",nytompkinsctyct  ,2
+"New York County Court, Ulster County",nyulsterctyct  ,9
+"New York County Court, Warren County",nywarrenctyct  ,0
+"New York County Court, Washington County",nywashctyct  ,0
+"New York County Court, Wayne County",nywaynectyct  ,3
+"New York County Court, Westchester County",nywestchcty  ,16
+"New York County Court, Wyoming County",nywyomingctyct  ,1
+"New York County Court, Yates County",nyyatesctyct  ,6
+New York District Court,nydistct  ,282
+Nassau County District Court,nydistctnassau  ,646
+Suffolk County District Court,nydistctsuffolk  ,332
+New York Justice Court,nyjustct  ,59
+Albany City Police Court,nyalbanyjustct  ,3
+Amherst Town Court,nyamherstjustct  ,11
+Amsterdam Police Court,nyjustctamsterd  ,1
+Arcadia Justice Court,nyjustctarcadia  ,7
+Justice Court of Village of Ardsley,nyjustctardsley  ,3
+Aurora Justice Court,nyjustctaurora  ,1
+Justice Court of Village of Blasdell,nyjustctblasdel  ,1
+Justice Court of Village of Briarcliff Manor,nyjustctbriarcl  ,1
+Justice Court of Town of Brighton,nyjustctbrighto  ,16
+Justice Court of Village of Bronxville,nyjustctbronxvi  ,1
+Camillus Justice Court,nyjustctcamillu  ,1
+Canaan Justice Court,nyjustctcanaan  ,2
+Canton Justice Court,nyjustctcanton  ,2
+Justice Court of Town of Carmel,nyjustctcarmel  ,1
+Justice Court of Village of Cayuga Heights,nyjustctcayugah  ,3
+Justice Court of Town of Chatam,nyjustctchatam  ,1
+Cheektowaga Justice Court,nyjustctcheekto  ,2
+Chenango Justice Court,nyjustctchenang  ,1
+Chili Justice Court,nyjustctchili  ,2
+Clarkstown Justice Court,nyjustctclarks  ,10
+Clifton Park Justice Court,nyjustctclifton  ,2
+Cohoes Police Court,nyjustctcohoes  ,1
+Colonie Justice Court,nycoloniejustct  ,9
+Cornwall Justice Court,nyjustctcornwal  ,1
+Cortlandt Town Court,nyjustctcortlan  ,1
+Depew Justice Court,nyjustctdepew  ,1
+DeWitt Justice Court,nyjustctdewitt  ,2
+Dickinson Justice Court,nyjustctdickins  ,1
+Dix Town Court,nyjustctdix  ,3
+Dobbs Ferry Justice Court,nyjustctdobbsfe  ,1
+East Rochester Justice Court,nyjustcteastroc  ,1
+Eastchester Justice Court,nyjustcteastche  ,1
+Elma Justice Court,nyjustctelma  ,2
+Justice Court of Village of Elmsford,nyjustctelmsfor  ,1
+Justice Court of Village of Fairport,nyjustctfairpor  ,1
+Justice Court of Town of Fishkill,nyjustctfishkil  ,2
+Justice Court of Village of Fleischmanns,nyjustctfleisch  ,1
+Frankfort Justice Court,nyjustctfrankfo  ,1
+Garden City Police Court,nygardjust  ,3
+Gates Town Court,nyjustctgates  ,1
+Geneseo Justice Court,nyjustctgeneseo  ,1
+Great Neck Plaza Village Court,nygtnkpljustct  ,2
+Greece Justice Court,nyjustctgreece  ,4
+Town of Greenport Justice Court,nyjustctgreenpo  ,1
+Harrison Town Court,nyjustctharriso  ,5
+Justice Court of Village of Hastings-on-Hudson,nyjustcthasting  ,1
+Haverstraw Justice Court,nyjustcthaverst  ,1
+Hempstead Justice Court,nyhempjustct  ,1
+Henrietta Justice Court,nyjustcthenriet  ,3
+Herkimer Justice Court,nyjustctherkime  ,2
+Highlands Justice Court,nyjustcthighlan  ,1
+Horseheads Justice Court,nyjustcthorsehe  ,4
+Hunter Justice Court,nyhunterjustct  ,5
+Justice Court of Village of Huntington Bay,nyjustcthunting  ,2
+Hyde Park Justice Court,nyhydepkjustct  ,1
+Justice Court of Town of Irondequoit,nyjustctirondeq  ,3
+Justice Court of Town of Bedford,nybedfordjustct  ,1
+Justice Court of Town of Greenburgh,nygreenbjustct  ,17
+Kensington Village Court,nykensjustct  ,5
+Kinderhook Justice Court,nykinderjustct  ,3
+Justice Court of Village of Kings Point,nyjustctkingspo  ,2
+Kingsbury Justice Court,nyjustctkingsbu  ,1
+LaGrange Justice Court,nylagrjustct  ,2
+Justice Court of Village of Larchmont,nyjustctlarchmo  ,2
+Lattingtown Village Court,nyjustctlatting  ,1
+Justice Court of Village of Lindenhurst,nyjustctlindenh  ,1
+Lloyd Harbor Village Police Court,nyjustctlloydha  ,5
+Justice Court of Town of Lockport,nyjustctlockpor  ,4
+Lowville Justice Court,nyjustctlowvill  ,1
+Village Justice Court of Village of Lynbrook,nyjustctlynbroo  ,1
+Mamaroneck Justice Court,nyjustctmamaron  ,2
+Justice Court of Village of Massapequa,nyjustctmassape  ,1
+Massapequa Park Justice Court,nymassapkjustct  ,2
+Massena City Police Court,nyjustctmassena  ,1
+Maybrook Police Court,nyjustctmaybroo  ,1
+Mendon Justice Court,nyjustctmendon  ,3
+Millerton Village Court,nyjustctmillert  ,1
+Monroe Justice Court,nyjustctmonroe  ,1
+Justice Court of Village of Monticello,nyjustctmontice  ,2
+Mount Kisco Police Court,nyjustctmountki  ,1
+Justice Court of Village of Muttontown,nyjustctmutton  ,10
+New Paltz Justice Court,nyjustctnewpalt  ,2
+New Windsor Justice Court,nyjustctnewwind  ,1
+New York Mills Village Court,nyjustctmills  ,1
+Justice Court of Village of Newark,nyjustctnewark  ,4
+Justice Court of Town of Newburgh,nyjustctnewburg  ,3
+North Castle Justice Court,nyjustctnorthca  ,1
+North Greenbush Justice Court,nyjustctnorthgr  ,1
+Justice Court of Village of North Hills,nyjustctnorthhi  ,3
+Justice Court of the Village of Nyack,nyjustctthenyac  ,1
+Oakfield Justice Court,nyjustctoakfiel  ,1
+Justice Court of Village of Ocean Beach,nyjustctoceanbe  ,4
+Ogden Justice Court,nyjustctogden  ,1
+Onondaga Town Court,nyjustctonondag  ,1
+Orangetown Justice Court,nyjustctorange  ,3
+Justice Court of Village of Orchard Park,nyjustctorchard  ,1
+Justice Court of Town of Ossining,nyjustctossinin  ,17
+Owego Justice Court,nyjustctowego  ,1
+Penfield Justice Court,nyjustctpenfiel  ,5
+Justice Court of Town of Perinton,nyjustctperinto  ,10
+Pleasant Valley Justice Court,nyjustctpleasan  ,2
+Justice Court of Village of Port Chester,nyjustctportche  ,1
+Poughkeepsie Justice Court,nyjustctpoughke  ,3
+Justice Court of Village of Pound Ridge,nyjustctpoundri  ,1
+Justice Court of Town of Ramapo,nyjustctramapo  ,9
+Justice Court of Village of Red Hook,nyjustctredhook  ,4
+Justice Court of Town of Rhinebeck,nyjustctrhinebe  ,10
+Rockville Centre Village Court,nyjustctrockvil  ,10
+Justice Court of Village of Roslyn Harbor,nyjustctroslynh  ,3
+Sand Lake Justice Court,nyjustctsandlak  ,5
+Justice Court of Scarsdale,nyjustctscarsda  ,9
+Schuyler Justice Court,nyjustctschuyle  ,1
+Sea Cliff Justice Court,nyjustctseaclif  ,1
+Justice Court of Village of Sleepy Hollow,nyjustctsleepyh  ,3
+Justice Court of Village of South Nyack,nyjustctsouthny  ,3
+Spring City Police Court,nyjustctspringc  ,1
+Justice Court of Village of Spring Valley,nyjustctspringv  ,11
+Starkey Town Court,nyjustctstarkey  ,2
+Justice Court of Village of Suffern,nyjustctsuffern  ,1
+Taghkanic Justice Court,nytaghjustct  ,1
+Justice Court of Tonawanda,nyjustcttonawan  ,3
+Troy City Police Court,nytroyjustct  ,2
+Justice Court of Village of Tuckahoe,nyjustcttuckaho  ,12
+Ulster Justice Court,nyjustctulster  ,1
+Valley Stream Justice Court,nyvalstrjustct  ,12
+Wappinger Justice Court,nyjustctwapping  ,4
+Webster Justice of the Peace Court,nywebsterjustct  ,21
+Justice Court of Village of Westbury,nyjustctwestbur  ,13
+Woodbury Justice Court,nyjustctwoodbur  ,1
+Justice Court of Village of Woodstock,nyjustctwoodsto  ,1
+Yonkers Justice Court,nyjustctyonkers  ,2
+Justice Court of Town of Yorktown,nyjustctyork  ,1
+New York City Court,nycityct  ,570
+City of New York Municipal Court,nynyccityct  ,5863
+Albany City Court,nyalbanycityct  ,94
+Amsterdam City Court,nyamsterdcityct  ,2
+Auburn City Court,nyauburncityct  ,16
+Batavia City Court,nybataviacityct  ,6
+Binghamton City Court,nybingcityct  ,23
+Buffalo City Court,nybuffalocityct  ,69
+Canandaigua City Court,nycanandcityct  ,7
+Cohoes City Court,nycohoescityct  ,9
+Cortland City Court,nycortlcityct  ,2
+Dunkirk City Court,nydunkirkcityct  ,3
+Elmira City Court,nyelmiracityct  ,2
+Fulton City Court,nyfultoncityct  ,1
+Geneva City Court,nygenevacityct  ,7
+Glens Falls City Court,nyglensfcityct  ,3
+Gloversville City Court,nygloverscityct  ,2
+Hornell City Court,nyhornellcityct  ,4
+Hudson City Court,nyhudsoncityct  ,5
+Ithaca City Court,nyithacacityct  ,16
+Jamestown City Court,nyjamescityct  ,6
+Kingston City Court,nykingstcityct  ,2
+Lackawanna City Court,nylackawcityct  ,1
+Long Beach City Court,nylbccityct  ,57
+Middletown City Court,nymiddletcityct  ,13
+Mount Vernon City Court,nymtverncityct  ,75
+Nassau City Court,nynassaucityct  ,1
+New Rochelle City Court,nynewroccityct  ,55
+Newburgh City Court,nynewburcityct  ,2
+Niagara Falls City Court,nyniagaracityct  ,1
+Oneida City Court,nyoneidacityct  ,1
+Oswego City Court,nyoswegocityct  ,20
+Peekskill City Court,nypeekskcityct  ,3
+Plattsburgh City Court,nyplattscityct  ,1
+Port Jervis City Court,nyportjercityct  ,13
+Poughkeepsie City Court,nypoughcityct  ,23
+Rochester City Court,nyroccityct  ,169
+Rome City Court,nyromecityct  ,3
+Rye City Court,nyryecityct  ,7
+Saratoga Springs City Court,nysaratocityct  ,1
+Schenectady City Court,nyschencityct  ,3
+Syracuse City Court,nysyrcityct  ,48
+Tonawanda City Court,nytonacityct  ,4
+Troy City Court,nytroycityct  ,4
+Utica City Court,nyuticacityct  ,42
+Watertown City Court,nywatertcityct  ,33
+White Plains City Court,nywhplncityct  ,47
+City Court of Westchester,nywestchcityct  ,1
+Yonkers City Court,nyyonkerscityct  ,91
+New York Family Court,nyfamct  ,704
+New York City Family Court,nycfamct  ,2009
+Delaware Children's Court,nyfamctdel  ,0
+Sullivan County Children's Court,nyfamctsull  ,1
+Westchester County Children's Court,nyfamctwestch  ,0
+New York Surrogate's Court,nysurct  ,14758
+Civil Court of the City of New York,nycivct  ,3501
+Criminal Court of the City of New York,nycrimct  ,1707
+"The Criminal Court of the City of New York, Bronx",nycrimctbronx  ,0
+"The Criminal Court of the City of New York, Kings",nycrimctkings  ,0
+"The Criminal Court of the City of New York, Queens",nycrimctqueens  ,0
+"The Criminal Court of the City of New York, New York",nycrimctnyc  ,0
+New York Court of Claims,nyclaimsct  ,2686
+New York Court of Common Pleas,nyctcompl  ,6588
+New York Magistrate Court,nymagct  ,0
+New York City Magistrates' Court,nynycmagct  ,252
+The Superior Court of the City of New York and Buffalo,superctny  ,1502
+Superior Court of Buffalo,nysuperctbuf  ,350
+The Superior Court of New York City,nysuperctnyc  ,1424
+Newburgh Recorder's Court,nyrecctnewburgh  ,1
+New York Attorney General Reports,nyag  ,2707
+Supreme Court of North Carolina,nc  ,53313
+Court of Appeals of North Carolina,ncctapp  ,24352
+Superior Court of North Carolina,ncsuperct  ,984
+North Carolina Industrial Commission,ncworkcompcom  ,7926
+North Dakota Supreme Court,nd  ,15223
+North Dakota Court of Appeals,ndctapp  ,65
+Ohio Supreme Court,ohio  ,10590
+Ohio Court of Appeals,ohioctapp  ,140371
+Ohio Court of Claims,ohioctcl  ,1809
+Court Of Common Pleas Of Ohio,ohioctcompl  ,1
+Supreme Court of Oklahoma,okla  ,46537
+Court Of Appeals Of Indian Territory,ctappindterr  ,596
+Court of Civil Appeals of Oklahoma,oklacivapp  ,6551
+Court of Criminal Appeals of Oklahoma,oklacrimapp  ,21839
+Oklahoma Judicial Ethics Advisory Panel,oklajeap  ,100
+Court on the Judiciary of Oklahoma,oklacoj  ,14
+Oklahoma Attorney General Reports,oklaag  ,11313
+Oregon Supreme Court,or  ,22415
+Court of Appeals of Oregon,orctapp  ,18687
+Oregon Tax Court,ortc  ,2609
+Supreme Court of Pennsylvania,pa  ,117282
+Superior Court of Pennsylvania,pasuperct  ,124623
+Commonwealth Court of Pennsylvania,pacommwct  ,23879
+Court of Judicial Discipline of Pennsylvania,cjdpa  ,128
+Pennsylvania Court of Common Pleas,pactcompl  ,11
+Pennsylvania Court of Oyer and Terminer,paoytermct  ,2
+Pennsylvania Court of Quarter Sessions,pennctqtrsess  ,1
+Supreme Court of Rhode Island,ri  ,21249
+Superior Court of Rhode Island,risuperct  ,3356
+Supreme Court of South Carolina,sc  ,22020
+Court of Appeals of South Carolina,scctapp  ,4105
+Superior Court of South Carolina,superctsc  ,0
+South Dakota Supreme Court,sd  ,10240
+Tennessee Supreme Court,tenn  ,10463
+Court of Appeals of Tennessee,tennctapp  ,23420
+Court of Criminal Appeals of Tennessee,tenncrimapp  ,24568
+Tennessee Court of Workers' Compensation Claims,tennworkcompcl  ,1455
+Tennessee Workers' Compensation Appeals Board,tennworkcompapp  ,427
+Tennessee Superior Court for Law and Equity,tennsuperct  ,453
+Texas Supreme Court,tex  ,32344
+Texas Commission of Appeals,texcommnapp  ,3668
+Texas Court of Review Tribunal,texrevtrib  ,0
+Court of Appeals of Texas,texapp  ,461285
+Court of Criminal Appeals of Texas,texcrimapp  ,82073
+Texas Special Court of Review,texreview  ,12
+Texas Judicial Panel on Multidistrict Litigation,texjpml  ,54
+Texas Attorney General Reports,texag  ,22862
+Utah Supreme Court,utah  ,14633
+Court of Appeals of Utah,utahctapp  ,7131
+Supreme Court of Vermont,vt  ,9925
+Vermont Superior Court,vtsuperct  ,2665
+Supreme Court of Virginia,va  ,8558
+General Court of Virginia,vagensess  ,1
+Court of Appeals of Virginia,vactapp  ,15885
+Washington Supreme Court,wash  ,53437
+Court of Appeals of Washington,washctapp  ,57071
+Washington Attorney General Reports,washag  ,166
+Washington Territory,washterr  ,1
+West Virginia Supreme Court,wva  ,21359
+Wisconsin Supreme Court,wis  ,16460
+Court of Appeals of Wisconsin,wisctapp  ,11625
+Wisconsin Attorney General Reports,wisag  ,1499
+Wyoming Supreme Court,wyo  ,10371
+Supreme Court of Guam,guam  ,30
+United States Judicial Conference Committee,usjc  ,5
+United States Judicial Panel on Multidistrict Litigation,jpml  ,1125
+United States Special Tribunal of Texas,sttex  ,1
+United States Special Tribunals of Pennsylvania,stp  ,1
+Court of King's Bench,kingsbench  ,372
